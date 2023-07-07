@@ -967,3 +967,159 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.07.07-11.11.49:231][254]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2023.07.07-11.11.49:233][254]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
 [2023.07.07-11.11.49:287][255]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2023.07.07-11.14.11:226][363]LogSlate: Took 0.200054 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2023.07.07-11.14.15:558][817]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content' is outside repository at 'C:/Users/RayanEreteo/Documents/Unreal Projects/Horror'
+[2023.07.07-11.14.15:558][817]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/RayanEreteo/Documents/Unreal Projects/Horror'
+[2023.07.07-11.14.15:558][817]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/RayanEreteo/Documents/Unreal Projects/Horror'
+[2023.07.07-11.14.15:558][817]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/RayanEreteo/Documents/Unreal Projects/Horror'
+[2023.07.07-11.14.15:558][817]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/RayanEreteo/Documents/Unreal Projects/Horror'
+[2023.07.07-11.14.15:558][817]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/RayanEreteo/Documents/Unreal Projects/Horror'
+[2023.07.07-11.14.15:558][817]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/RayanEreteo/Documents/Unreal Projects/Horror'
+[2023.07.07-11.14.15:558][817]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/RayanEreteo/Documents/Unreal Projects/Horror'
+[2023.07.07-11.14.15:559][817]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/RayanEreteo/Documents/Unreal Projects/Horror'
+[2023.07.07-11.14.15:559][817]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/RayanEreteo/Documents/Unreal Projects/Horror'
+[2023.07.07-11.14.15:559][817]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/RayanEreteo/Documents/Unreal Projects/Horror'
+[2023.07.07-11.14.15:559][817]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Users/RayanEreteo/Documents/Unreal Projects/Horror'
+[2023.07.07-11.14.15:559][817]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'C:/Users/RayanEreteo/Documents/Unreal Projects/Horror'
+[2023.07.07-11.14.15:559][817]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'C:/Users/RayanEreteo/Documents/Unreal Projects/Horror'
+[2023.07.07-11.14.15:559][817]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Users/RayanEreteo/Documents/Unreal Projects/Horror'
+[2023.07.07-11.14.15:559][817]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Users/RayanEreteo/Documents/Unreal Projects/Horror'
+[2023.07.07-11.14.15:559][817]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/RayanEreteo/Documents/Unreal Projects/Horror'
+[2023.07.07-11.14.15:559][817]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/RayanEreteo/Documents/Unreal Projects/Horror'
+[2023.07.07-11.14.15:559][817]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'C:/Users/RayanEreteo/Documents/Unreal Projects/Horror'
+[2023.07.07-11.14.15:559][817]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'C:/Users/RayanEreteo/Documents/Unreal Projects/Horror'
+[2023.07.07-11.14.15:559][817]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'C:/Users/RayanEreteo/Documents/Unreal Projects/Horror'
+[2023.07.07-11.14.15:559][817]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/RayanEreteo/Documents/Unreal Projects/Horror'
+[2023.07.07-11.14.15:559][817]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/RayanEreteo/Documents/Unreal Projects/Horror'
+[2023.07.07-11.14.15:559][817]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'C:/Users/RayanEreteo/Documents/Unreal Projects/Horror'
+[2023.07.07-11.14.15:559][817]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Users/RayanEreteo/Documents/Unreal Projects/Horror'
+[2023.07.07-11.14.15:559][817]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/RayanEreteo/Documents/Unreal Projects/Horror'
+[2023.07.07-11.14.15:808][817]EditorErrors: Warning: No assets to check in!
+[2023.07.07-11.16.20:340][197]Cmd: DELETE
+[2023.07.07-11.16.20:341][197]Cmd: ACTOR DELETE
+[2023.07.07-11.16.20:375][197]LogEditorActor: Deleted Actor: Brush
+[2023.07.07-11.16.20:381][197]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.07.07-11.16.20:594][197]LogEditorActor: Deleted 1 Actors (0.233 secs)
+[2023.07.07-11.16.21:797][334]Cmd: DELETE
+[2023.07.07-11.16.21:797][334]Cmd: ACTOR DELETE
+[2023.07.07-11.16.21:799][334]LogEditorActor: Deleted Actor: Brush
+[2023.07.07-11.16.21:804][334]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.07.07-11.16.21:943][334]LogEditorActor: Deleted 1 Actors (0.146 secs)
+[2023.07.07-11.16.22:202][359]Cmd: DELETE
+[2023.07.07-11.16.22:202][359]Cmd: ACTOR DELETE
+[2023.07.07-11.16.22:205][359]LogEditorActor: Deleted Actor: Brush
+[2023.07.07-11.16.22:210][359]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.07.07-11.16.22:520][359]LogEditorActor: Deleted 1 Actors (0.318 secs)
+[2023.07.07-11.16.22:695][374]Cmd: DELETE
+[2023.07.07-11.16.22:695][374]Cmd: ACTOR DELETE
+[2023.07.07-11.16.22:698][374]LogEditorActor: Deleted Actor: Brush
+[2023.07.07-11.16.22:703][374]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.07.07-11.16.22:870][374]LogEditorActor: Deleted 1 Actors (0.175 secs)
+[2023.07.07-11.16.23:321][422]Cmd: DELETE
+[2023.07.07-11.16.23:321][422]Cmd: ACTOR DELETE
+[2023.07.07-11.16.23:324][422]LogEditorActor: Deleted Actor: Brush
+[2023.07.07-11.16.23:329][422]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.07.07-11.16.23:508][422]LogEditorActor: Deleted 1 Actors (0.187 secs)
+[2023.07.07-11.16.23:775][448]Cmd: DELETE
+[2023.07.07-11.16.23:775][448]Cmd: ACTOR DELETE
+[2023.07.07-11.16.23:778][448]LogEditorActor: Deleted Actor: Brush
+[2023.07.07-11.16.23:783][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.07.07-11.16.23:913][448]LogEditorActor: Deleted 1 Actors (0.138 secs)
+[2023.07.07-11.16.27:877][882]Cmd: DELETE
+[2023.07.07-11.16.27:877][882]Cmd: ACTOR DELETE
+[2023.07.07-11.16.27:880][882]LogEditorActor: Deleted Actor: Brush
+[2023.07.07-11.16.27:885][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.07.07-11.16.28:074][882]LogEditorActor: Deleted 1 Actors (0.196 secs)
+[2023.07.07-11.16.28:251][895]Cmd: DELETE
+[2023.07.07-11.16.28:251][895]Cmd: ACTOR DELETE
+[2023.07.07-11.16.28:254][895]LogEditorActor: Deleted Actor: Brush
+[2023.07.07-11.16.28:259][895]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.07.07-11.16.28:319][895]LogEditorActor: Deleted 1 Actors (0.067 secs)
+[2023.07.07-11.16.29:250][  0]Cmd: DELETE
+[2023.07.07-11.16.29:250][  0]Cmd: ACTOR DELETE
+[2023.07.07-11.16.29:252][  0]LogEditorActor: Deleted Actor: Brush
+[2023.07.07-11.16.29:257][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.07.07-11.16.29:413][  0]LogEditorActor: Deleted 1 Actors (0.164 secs)
+[2023.07.07-11.16.29:954][ 59]Cmd: DELETE
+[2023.07.07-11.16.29:954][ 59]Cmd: ACTOR DELETE
+[2023.07.07-11.16.29:956][ 59]LogEditorActor: Deleted Actor: Brush
+[2023.07.07-11.16.29:962][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.07.07-11.16.30:073][ 59]LogEditorActor: Deleted 1 Actors (0.119 secs)
+[2023.07.07-11.16.30:312][ 82]Cmd: DELETE
+[2023.07.07-11.16.30:312][ 82]Cmd: ACTOR DELETE
+[2023.07.07-11.16.30:315][ 82]LogEditorActor: Deleted Actor: Brush
+[2023.07.07-11.16.30:320][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.07.07-11.16.30:404][ 82]LogEditorActor: Deleted 1 Actors (0.092 secs)
+[2023.07.07-11.16.30:581][102]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2023.07.07-11.16.31:320][180]Cmd: DELETE
+[2023.07.07-11.16.31:320][180]Cmd: ACTOR DELETE
+[2023.07.07-11.16.31:323][180]LogEditorActor: Deleted Actor: Brush
+[2023.07.07-11.16.31:328][180]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.07.07-11.16.31:517][180]LogEditorActor: Deleted 1 Actors (0.196 secs)
+[2023.07.07-11.16.31:656][191]Cmd: DELETE
+[2023.07.07-11.16.31:656][191]Cmd: ACTOR DELETE
+[2023.07.07-11.16.31:659][191]LogEditorActor: Deleted Actor: Brush
+[2023.07.07-11.16.31:664][191]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.07.07-11.16.31:847][191]LogEditorActor: Deleted 1 Actors (0.191 secs)
+[2023.07.07-11.16.32:405][252]Cmd: DELETE
+[2023.07.07-11.16.32:405][252]Cmd: ACTOR DELETE
+[2023.07.07-11.16.32:407][252]LogEditorActor: Deleted Actor: Brush
+[2023.07.07-11.16.32:412][252]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.07.07-11.16.32:507][252]LogEditorActor: Deleted 1 Actors (0.103 secs)
+[2023.07.07-11.16.33:471][362]Cmd: DELETE
+[2023.07.07-11.16.33:471][362]Cmd: ACTOR DELETE
+[2023.07.07-11.16.33:473][362]LogEditorActor: Deleted Actor: Brush
+[2023.07.07-11.16.33:479][362]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.07.07-11.16.33:555][362]LogEditorActor: Deleted 1 Actors (0.084 secs)
+[2023.07.07-11.16.34:022][414]Cmd: DELETE
+[2023.07.07-11.16.34:022][414]Cmd: ACTOR DELETE
+[2023.07.07-11.16.34:024][414]LogEditorActor: Deleted Actor: Brush
+[2023.07.07-11.16.34:029][414]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2023.07.07-11.16.34:096][414]LogEditorActor: Deleted 1 Actors (0.075 secs)
+[2023.07.07-11.16.34:627][473]Cmd: DELETE
+[2023.07.07-11.16.34:627][473]Cmd: ACTOR DELETE
+[2023.07.07-11.16.34:629][473]LogEditorActor: Deleted Actor: Brush
+[2023.07.07-11.16.34:634][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.07.07-11.16.34:673][473]LogEditorActor: Deleted 1 Actors (0.046 secs)
+[2023.07.07-11.16.39:091][972]Cmd: EDIT COPY
+[2023.07.07-11.16.39:273][986]Cmd: EDIT PASTE
+[2023.07.07-11.16.50:454][232]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.07.07-11.16.50:476][232]LogSavePackage: Moving '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Saved/FirstPersonExampleMapEE5DC0904232433A039781BF2F9CF4C0.tmp' to '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2023.07.07-11.16.51:081][232]LogSavePackage: Moving '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Saved/FirstPersonExampleMap_BuiltData8E917DCD463C61D1C10F368E711508FD.tmp' to '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2023.07.07-11.16.51:091][232]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.07-11.16.51:091][232]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2023.07.07-11.16.51:091][232]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2023.07.07-11.16.54:404][574]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content' is outside repository at 'C:/Users/RayanEreteo/Documents/Unreal Projects/Horror'
+[2023.07.07-11.16.54:404][574]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/RayanEreteo/Documents/Unreal Projects/Horror'
+[2023.07.07-11.16.54:404][574]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/RayanEreteo/Documents/Unreal Projects/Horror'
+[2023.07.07-11.16.54:404][574]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/RayanEreteo/Documents/Unreal Projects/Horror'
+[2023.07.07-11.16.54:404][574]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/RayanEreteo/Documents/Unreal Projects/Horror'
+[2023.07.07-11.16.54:404][574]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/RayanEreteo/Documents/Unreal Projects/Horror'
+[2023.07.07-11.16.54:404][574]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/RayanEreteo/Documents/Unreal Projects/Horror'
+[2023.07.07-11.16.54:404][574]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/RayanEreteo/Documents/Unreal Projects/Horror'
+[2023.07.07-11.16.54:404][574]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/RayanEreteo/Documents/Unreal Projects/Horror'
+[2023.07.07-11.16.54:404][574]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/RayanEreteo/Documents/Unreal Projects/Horror'
+[2023.07.07-11.16.54:404][574]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/RayanEreteo/Documents/Unreal Projects/Horror'
+[2023.07.07-11.16.54:404][574]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Users/RayanEreteo/Documents/Unreal Projects/Horror'
+[2023.07.07-11.16.54:404][574]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'C:/Users/RayanEreteo/Documents/Unreal Projects/Horror'
+[2023.07.07-11.16.54:405][574]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'C:/Users/RayanEreteo/Documents/Unreal Projects/Horror'
+[2023.07.07-11.16.54:405][574]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Users/RayanEreteo/Documents/Unreal Projects/Horror'
+[2023.07.07-11.16.54:405][574]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Users/RayanEreteo/Documents/Unreal Projects/Horror'
+[2023.07.07-11.16.54:405][574]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/RayanEreteo/Documents/Unreal Projects/Horror'
+[2023.07.07-11.16.54:405][574]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/RayanEreteo/Documents/Unreal Projects/Horror'
+[2023.07.07-11.16.54:405][574]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'C:/Users/RayanEreteo/Documents/Unreal Projects/Horror'
+[2023.07.07-11.16.54:405][574]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'C:/Users/RayanEreteo/Documents/Unreal Projects/Horror'
+[2023.07.07-11.16.54:405][574]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'C:/Users/RayanEreteo/Documents/Unreal Projects/Horror'
+[2023.07.07-11.16.54:405][574]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/RayanEreteo/Documents/Unreal Projects/Horror'
+[2023.07.07-11.16.54:405][574]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/RayanEreteo/Documents/Unreal Projects/Horror'
+[2023.07.07-11.16.54:405][574]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'C:/Users/RayanEreteo/Documents/Unreal Projects/Horror'
+[2023.07.07-11.16.54:405][574]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Users/RayanEreteo/Documents/Unreal Projects/Horror'
+[2023.07.07-11.16.54:405][574]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/RayanEreteo/Documents/Unreal Projects/Horror'
+[2023.07.07-11.16.54:857][574]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.07.07-11.16.54:879][574]LogSavePackage: Moving '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Saved/FirstPersonExampleMapF81640E04858DA817947B5B8565587EA.tmp' to '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2023.07.07-11.16.54:891][574]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.039
+[2023.07.07-11.16.55:391][574]LogSavePackage: Moving '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Saved/FirstPersonExampleMap_BuiltDataD36742A9469B84C877A70DB35398BA77.tmp' to '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2023.07.07-11.16.59:136][574]LogSlate: Window 'Submit Files' being destroyed
+[2023.07.07-11.16.59:150][575]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.07-11.16.59:150][575]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2023.07.07-11.16.59:150][575]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
