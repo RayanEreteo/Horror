@@ -3738,3 +3738,197 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2023.07.07-15.58.23:033][161]LogContentValidation: Display: Validating AnimSequence /Game/MesDossiers/3DModel/Enemy/Mannequin/Animations/Male_Dance_Pose.Male_Dance_Pose
 [2023.07.07-15.58.23:033][161]LogContentValidation: Display: Validating AnimSequence /Game/MesDossiers/3DModel/Enemy/Mannequin/Animations/Female_Dance_Pose.Female_Dance_Pose
 [2023.07.07-15.58.23:033][161]LogContentValidation: Display: Validating AnimSequence /Game/MesDossiers/3DModel/Enemy/Mannequin/Animations/Female_Standing_Pose.Female_Standing_Pose
+[2023.07.07-15.58.59:516][739]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content' is outside repository at 'C:/Users/RayanEreteo/Documents/Unreal Projects/Horror'
+[2023.07.07-15.58.59:516][739]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/RayanEreteo/Documents/Unreal Projects/Horror'
+[2023.07.07-15.58.59:516][739]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/RayanEreteo/Documents/Unreal Projects/Horror'
+[2023.07.07-15.58.59:516][739]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/RayanEreteo/Documents/Unreal Projects/Horror'
+[2023.07.07-15.58.59:516][739]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/RayanEreteo/Documents/Unreal Projects/Horror'
+[2023.07.07-15.58.59:516][739]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/RayanEreteo/Documents/Unreal Projects/Horror'
+[2023.07.07-15.58.59:516][739]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/RayanEreteo/Documents/Unreal Projects/Horror'
+[2023.07.07-15.58.59:516][739]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/RayanEreteo/Documents/Unreal Projects/Horror'
+[2023.07.07-15.58.59:516][739]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/RayanEreteo/Documents/Unreal Projects/Horror'
+[2023.07.07-15.58.59:516][739]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/RayanEreteo/Documents/Unreal Projects/Horror'
+[2023.07.07-15.58.59:516][739]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/RayanEreteo/Documents/Unreal Projects/Horror'
+[2023.07.07-15.58.59:516][739]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Users/RayanEreteo/Documents/Unreal Projects/Horror'
+[2023.07.07-15.58.59:516][739]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'C:/Users/RayanEreteo/Documents/Unreal Projects/Horror'
+[2023.07.07-15.58.59:516][739]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'C:/Users/RayanEreteo/Documents/Unreal Projects/Horror'
+[2023.07.07-15.58.59:516][739]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Users/RayanEreteo/Documents/Unreal Projects/Horror'
+[2023.07.07-15.58.59:516][739]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Users/RayanEreteo/Documents/Unreal Projects/Horror'
+[2023.07.07-15.58.59:516][739]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/RayanEreteo/Documents/Unreal Projects/Horror'
+[2023.07.07-15.58.59:516][739]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/RayanEreteo/Documents/Unreal Projects/Horror'
+[2023.07.07-15.58.59:516][739]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'C:/Users/RayanEreteo/Documents/Unreal Projects/Horror'
+[2023.07.07-15.58.59:516][739]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'C:/Users/RayanEreteo/Documents/Unreal Projects/Horror'
+[2023.07.07-15.58.59:516][739]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'C:/Users/RayanEreteo/Documents/Unreal Projects/Horror'
+[2023.07.07-15.58.59:516][739]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'C:/Users/RayanEreteo/Documents/Unreal Projects/Horror'
+[2023.07.07-15.58.59:516][739]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/RayanEreteo/Documents/Unreal Projects/Horror'
+[2023.07.07-15.58.59:516][739]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/RayanEreteo/Documents/Unreal Projects/Horror'
+[2023.07.07-15.58.59:516][739]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Users/RayanEreteo/Documents/Unreal Projects/Horror'
+[2023.07.07-15.58.59:516][739]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/RayanEreteo/Documents/Unreal Projects/Horror'
+[2023.07.07-15.58.59:791][739]EditorErrors: Warning: No assets to check in!
+[2023.07.07-15.59.08:910][759]LogSlate: Window 'Source Control Login' being destroyed
+[2023.07.07-15.59.18:017][744]LogTemp: Repeating last play command: Selected Viewport
+[2023.07.07-15.59.18:024][744]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.07-15.59.18:024][744]PIE: New page: PIE session: FirstPersonExampleMap (7 juil. 2023 à 19:59:18)
+[2023.07.07-15.59.18:060][744]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.07.07-15.59.18:086][744]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025933s)
+[2023.07.07-15.59.18:087][744]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2023.07.07-15.59.18:087][744]LogPlayLevel: PIE: World Init took: (0.001209s)
+[2023.07.07-15.59.18:087][744]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.027338s)
+[2023.07.07-15.59.18:115][744]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2023.07.07-15.59.18:118][744]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2023.07.07-15.59.18:118][744]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.07-15.59.18:118][744]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.07-15.59.18:118][744]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.07-15.59.18:118][744]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.07-15.59.18:118][744]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.07.07-15.59.18:118][744]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.07.07-15.59.18:118][744]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.07.07-15.59.18:118][744]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.07-15.59.18:118][744]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.07-15.59.18:118][744]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.07-15.59.18:118][744]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.07-15.59.18:118][744]LogAudioMixer: Display: Initializing audio mixer.
+[2023.07.07-15.59.18:121][744]LogAudioMixer: Display: 0: FrontLeft
+[2023.07.07-15.59.18:121][744]LogAudioMixer: Display: 1: FrontRight
+[2023.07.07-15.59.18:135][744]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2023.07.07-15.59.18:135][744]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.07-15.59.18:135][744]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.07-15.59.18:135][744]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.07-15.59.18:136][744]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.07.07-15.59.18:136][744]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.07.07-15.59.18:136][744]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.07.07-15.59.18:137][744]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.07.07-15.59.18:137][744]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.07.07-15.59.18:137][744]LogInit: FAudioDevice initialized.
+[2023.07.07-15.59.18:137][744]LogAudio: Display: Audio Device (ID: 34) registered with world 'FirstPersonExampleMap'.
+[2023.07.07-15.59.18:145][744]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.07.07-15.59.18:156][744]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2023.07.07-17.59.18
+[2023.07.07-15.59.18:157][744]LogWorld: Bringing up level for play took: 0.011363
+[2023.07.07-15.59.18:157][744]LogOnline: OSS: Creating online subsystem instance for: :Context_44
+[2023.07.07-15.59.18:159][744]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.07.07-15.59.18:159][744]PIE: Server logged in
+[2023.07.07-15.59.18:160][744]PIE: Play in editor total start time 0,137 seconds.
+[2023.07.07-15.59.18:978][840]Cmd: LevelEditor.ToggleImmersive
+[2023.07.07-15.59.55:891][865]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.07-15.59.55:891][865]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.07.07-15.59.55:891][865]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.07.07-15.59.55:893][865]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.07-15.59.55:917][865]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.07-15.59.55:942][865]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.07-15.59.55:968][865]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.07-15.59.55:968][865]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.07.07-15.59.55:969][865]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.07.07-15.59.55:972][865]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.07-15.59.55:979][865]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2023.07.07-15.59.56:003][866]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2023.07.07-15.59.58:102][ 88]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Metal_Rack12)
+[2023.07.07-16.00.03:515][683]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2023.07.07-16.00.03:647][683]LogSavePackage: Moving '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Saved/FirstPersonExampleMap368CF25F4C7E48B8EEDBB9B6C9CEF4F7.tmp' to '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2023.07.07-16.00.03:764][683]LogSavePackage: Moving '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Saved/FirstPersonExampleMap_BuiltDataC5B2B3284CEF656FB958A4B3DC6102A9.tmp' to '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2023.07.07-16.00.03:776][683]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.07-16.00.03:776][683]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2023.07.07-16.00.03:776][683]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2023.07.07-16.00.06:998][ 54]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallBrick68)
+[2023.07.07-16.00.09:179][294]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.07.07-16.00.09:311][294]LogSavePackage: Moving '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Saved/FirstPersonExampleMap2C07C0A141AAF1BEFFDD7696E64E34EC.tmp' to '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2023.07.07-16.00.09:415][294]LogSavePackage: Moving '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Saved/FirstPersonExampleMap_BuiltDataB91F7D7345A94FAD462C8BB7B10E4737.tmp' to '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2023.07.07-16.00.09:427][294]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.07-16.00.09:428][294]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2023.07.07-16.00.09:428][294]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2023.07.07-16.03.57:955][ 67]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.07.07-16.03.57:979][ 67]LogContentBrowser: Creating deferred item: NewFolder
+[2023.07.07-16.03.59:917][287]LogContentBrowser: Attempting asset rename: NewFolder -> Footstep
+[2023.07.07-16.03.59:918][287]LogContentBrowser: End creating deferred item NewFolder
+[2023.07.07-16.04.05:927][477]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 ../../../../../../Users/RayanEreteo/Documents/Audacity/Single-footstep-on-concrete-with-womans-heel-shoes-5-www.FesliyanStudios.com.wav)
+[2023.07.07-16.04.06:010][477]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 ../../../../../../Users/RayanEreteo/Documents/Audacity/Single-footstep-on-concrete-with-womans-heel-shoes-6-www.FesliyanStudios.com.wav)
+[2023.07.07-16.04.06:093][477]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 ../../../../../../Users/RayanEreteo/Documents/Audacity/Single-footstep-on-concrete-with-womans-heel-shoes-7-www.FesliyanStudios.com.wav)
+[2023.07.07-16.04.08:887][757]LogContentBrowser: Deferred new asset file creation: Single-footstep-on-concrete-with-womans-heel-shoes-5-www_FesliyanStudios_com_Cue
+[2023.07.07-16.04.08:911][757]LogContentBrowser: Creating deferred item: Single-footstep-on-concrete-with-womans-heel-shoes-5-www_FesliyanStudios_com_Cue
+[2023.07.07-16.04.11:028][  3]LogContentBrowser: Attempting asset rename: Single-footstep-on-concrete-with-womans-heel-shoes-5-www_FesliyanStudios_com_Cue -> Concrete
+[2023.07.07-16.04.11:112][  3]LogContentBrowser: End creating deferred item Single-footstep-on-concrete-with-womans-heel-shoes-5-www_FesliyanStudios_com_Cue
+[2023.07.07-16.04.11:177][  7]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/MesDossiers/SFX/Footstep/Concrete.Concrete
+[2023.07.07-16.04.29:112][625]LogSavePackage: Moving '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Saved/ConcreteD7E0729C4170B6EF26EB6CAA2017FEB0.tmp' to '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Content/MesDossiers/SFX/Footstep/Concrete.uasset'
+[2023.07.07-16.04.29:300][625]AssetCheck: New page: Asset Save: Concrete
+[2023.07.07-16.04.29:300][625]LogContentValidation: Display: Validating SoundCue /Game/MesDossiers/SFX/Footstep/Concrete.Concrete
+[2023.07.07-16.04.33:902][964]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Single-footstep-on-concrete-with-womans-heel-shoes-7-www_FesliyanStudios_com...
+[2023.07.07-16.04.33:902][964]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/MesDossiers/SFX/Footstep/Single-footstep-on-concrete-with-womans-heel-shoes-7-www_FesliyanStudios_com.Single-footstep-on-concrete-with-womans-heel-shoes-7-www_FesliyanStudios_com will be modified from 40 to 40.
+[2023.07.07-16.04.33:925][964]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 179748 while cooking SoundWave /Game/MesDossiers/SFX/Footstep/Single-footstep-on-concrete-with-womans-heel-shoes-7-www_FesliyanStudios_com.Single-footstep-on-concrete-with-womans-heel-shoes-7-www_FesliyanStudios_com.
+[2023.07.07-16.04.34:578][ 32]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Single-footstep-on-concrete-with-womans-heel-shoes-6-www_FesliyanStudios_com...
+[2023.07.07-16.04.34:578][ 32]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/MesDossiers/SFX/Footstep/Single-footstep-on-concrete-with-womans-heel-shoes-6-www_FesliyanStudios_com.Single-footstep-on-concrete-with-womans-heel-shoes-6-www_FesliyanStudios_com will be modified from 40 to 40.
+[2023.07.07-16.04.34:598][ 32]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 181156 while cooking SoundWave /Game/MesDossiers/SFX/Footstep/Single-footstep-on-concrete-with-womans-heel-shoes-6-www_FesliyanStudios_com.Single-footstep-on-concrete-with-womans-heel-shoes-6-www_FesliyanStudios_com.
+[2023.07.07-16.04.35:325][108]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Single-footstep-on-concrete-with-womans-heel-shoes-5-www_FesliyanStudios_com...
+[2023.07.07-16.04.35:325][108]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/MesDossiers/SFX/Footstep/Single-footstep-on-concrete-with-womans-heel-shoes-5-www_FesliyanStudios_com.Single-footstep-on-concrete-with-womans-heel-shoes-5-www_FesliyanStudios_com will be modified from 40 to 40.
+[2023.07.07-16.04.35:344][108]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 177696 while cooking SoundWave /Game/MesDossiers/SFX/Footstep/Single-footstep-on-concrete-with-womans-heel-shoes-5-www_FesliyanStudios_com.Single-footstep-on-concrete-with-womans-heel-shoes-5-www_FesliyanStudios_com.
+[2023.07.07-16.04.57:391][769]LogEditorTransaction: Undo Promote To Variable
+[2023.07.07-16.06.26:427][796]BlueprintLog: New page: Compile FirstPersonCharacter
+[2023.07.07-16.06.26:495][796]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
+[2023.07.07-16.06.26:671][796]LogSavePackage: Moving '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Saved/FirstPersonCharacterD443CF7241B2662C09004BB2C60A333E.tmp' to '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2023.07.07-16.06.26:685][796]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2023.07.07-16.06.26:685][796]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2023.07.07-16.06.28:034][923]LogTemp: Repeating last play command: Selected Viewport
+[2023.07.07-16.06.28:042][923]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.07-16.06.28:042][923]PIE: New page: PIE session: FirstPersonExampleMap (7 juil. 2023 à 20:06:28)
+[2023.07.07-16.06.28:080][923]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.07.07-16.06.28:106][923]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025571s)
+[2023.07.07-16.06.28:106][923]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2023.07.07-16.06.28:107][923]LogPlayLevel: PIE: World Init took: (0.001151s)
+[2023.07.07-16.06.28:107][923]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.026907s)
+[2023.07.07-16.06.28:135][923]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2023.07.07-16.06.28:137][923]LogAudio: Display: Creating Audio Device:                 Id: 35, Scope: Unique, Realtime: True
+[2023.07.07-16.06.28:137][923]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.07-16.06.28:137][923]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.07-16.06.28:137][923]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.07-16.06.28:137][923]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.07-16.06.28:137][923]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.07.07-16.06.28:137][923]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.07.07-16.06.28:137][923]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.07.07-16.06.28:137][923]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.07-16.06.28:137][923]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.07-16.06.28:137][923]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.07-16.06.28:137][923]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.07-16.06.28:137][923]LogAudioMixer: Display: Initializing audio mixer.
+[2023.07.07-16.06.28:140][923]LogAudioMixer: Display: 0: FrontLeft
+[2023.07.07-16.06.28:140][923]LogAudioMixer: Display: 1: FrontRight
+[2023.07.07-16.06.28:154][923]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2023.07.07-16.06.28:154][923]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.07-16.06.28:154][923]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.07-16.06.28:154][923]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.07-16.06.28:155][923]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.07.07-16.06.28:155][923]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.07.07-16.06.28:155][923]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.07.07-16.06.28:156][923]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.07.07-16.06.28:156][923]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.07.07-16.06.28:156][923]LogInit: FAudioDevice initialized.
+[2023.07.07-16.06.28:156][923]LogAudio: Display: Audio Device (ID: 35) registered with world 'FirstPersonExampleMap'.
+[2023.07.07-16.06.28:167][923]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.07.07-16.06.28:178][923]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2023.07.07-18.06.28
+[2023.07.07-16.06.28:178][923]LogWorld: Bringing up level for play took: 0.010912
+[2023.07.07-16.06.28:179][923]LogOnline: OSS: Creating online subsystem instance for: :Context_45
+[2023.07.07-16.06.28:181][923]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.07.07-16.06.28:181][923]PIE: Server logged in
+[2023.07.07-16.06.28:182][923]PIE: Play in editor total start time 0,141 seconds.
+[2023.07.07-16.06.28:985][ 18]Cmd: LevelEditor.ToggleImmersive
+[2023.07.07-16.07.20:021][303]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.07-16.07.20:021][303]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.07.07-16.07.20:022][303]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.07.07-16.07.20:024][303]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.07-16.07.20:052][303]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.07-16.07.20:073][303]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.07-16.07.20:099][303]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.07-16.07.20:099][303]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.07.07-16.07.20:100][303]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.07.07-16.07.20:103][303]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.07-16.07.20:111][303]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2023.07.07-16.07.20:134][304]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2023.07.07-16.07.23:397][643]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2023.07.07-16.07.23:589][643]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.07.07-16.07.23:717][643]LogSavePackage: Moving '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Saved/FirstPersonExampleMap501C52F04C5AA308C6D8B3BAC731899B.tmp' to '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2023.07.07-16.07.23:731][643]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.169
+[2023.07.07-16.07.23:736][643]LogSavePackage: Moving '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Saved/Single-footstep-on-concrete-with9B49CE9A4B0044A0C210C69E69B05959.tmp' to '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Content/MesDossiers/SFX/Footstep/Single-footstep-on-concrete-with-womans-heel-shoes-5-www_FesliyanStudios_com.uasset'
+[2023.07.07-16.07.23:949][643]LogSavePackage: Moving '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Saved/Single-footstep-on-concrete-with3C7A13EF488218D293983E8E78EEFBC7.tmp' to '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Content/MesDossiers/SFX/Footstep/Single-footstep-on-concrete-with-womans-heel-shoes-6-www_FesliyanStudios_com.uasset'
+[2023.07.07-16.07.24:146][643]LogSavePackage: Moving '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Saved/Single-footstep-on-concrete-with1B1E1D434E26E752CD282C8FB8D92103.tmp' to '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Content/MesDossiers/SFX/Footstep/Single-footstep-on-concrete-with-womans-heel-shoes-7-www_FesliyanStudios_com.uasset'
+[2023.07.07-16.07.24:342][643]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.07-16.07.24:342][643]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2023.07.07-16.07.24:342][643]LogContentValidation: Display: Validating SoundWave /Game/MesDossiers/SFX/Footstep/Single-footstep-on-concrete-with-womans-heel-shoes-7-www_FesliyanStudios_com.Single-footstep-on-concrete-with-womans-heel-shoes-7-www_FesliyanStudios_com
+[2023.07.07-16.07.24:342][643]LogContentValidation: Display: Validating SoundWave /Game/MesDossiers/SFX/Footstep/Single-footstep-on-concrete-with-womans-heel-shoes-6-www_FesliyanStudios_com.Single-footstep-on-concrete-with-womans-heel-shoes-6-www_FesliyanStudios_com
+[2023.07.07-16.07.24:342][643]LogContentValidation: Display: Validating SoundWave /Game/MesDossiers/SFX/Footstep/Single-footstep-on-concrete-with-womans-heel-shoes-5-www_FesliyanStudios_com.Single-footstep-on-concrete-with-womans-heel-shoes-5-www_FesliyanStudios_com
