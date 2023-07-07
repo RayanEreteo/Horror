@@ -2110,3 +2110,1631 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.07.07-15.27.56:567][130]AssetCheck: New page: Asset Save: multiple assets
 [2023.07.07-15.27.56:567][130]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
 [2023.07.07-15.27.56:567][130]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2023.07.07-15.28.50:115][107]Cmd: DELETE
+[2023.07.07-15.28.50:115][107]Cmd: ACTOR DELETE
+[2023.07.07-15.28.50:125][107]LogEditorActor: Deleted Actor: Pawn
+[2023.07.07-15.28.50:148][107]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2023.07.07-15.28.50:150][107]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2023.07.07-15.28.51:870][296]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.07.07-15.28.51:998][296]LogSavePackage: Moving '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Saved/FirstPersonExampleMap3FD52CA0425207E0FF2EFCBDB6F837AE.tmp' to '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2023.07.07-15.28.52:108][296]LogSavePackage: Moving '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Saved/FirstPersonExampleMap_BuiltData87ADC3904BDD8E8102A4B1A75874D493.tmp' to '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2023.07.07-15.28.52:120][296]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.07-15.28.52:120][296]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2023.07.07-15.28.52:120][296]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2023.07.07-15.28.59:070][118]LogTemp: Repeating last play command: Selected Viewport
+[2023.07.07-15.28.59:077][118]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.07-15.28.59:077][118]PIE: New page: PIE session: FirstPersonExampleMap (7 juil. 2023 à 19:28:59)
+[2023.07.07-15.28.59:119][118]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.07.07-15.28.59:143][118]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023841s)
+[2023.07.07-15.28.59:144][118]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2023.07.07-15.28.59:145][118]LogPlayLevel: PIE: World Init took: (0.001515s)
+[2023.07.07-15.28.59:145][118]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.025565s)
+[2023.07.07-15.28.59:167][118]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2023.07.07-15.28.59:168][118]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2023.07.07-15.28.59:168][118]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.07-15.28.59:169][118]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.07-15.28.59:169][118]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.07-15.28.59:169][118]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.07-15.28.59:169][118]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.07.07-15.28.59:169][118]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.07.07-15.28.59:169][118]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.07.07-15.28.59:169][118]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.07-15.28.59:169][118]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.07-15.28.59:169][118]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.07-15.28.59:169][118]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.07-15.28.59:169][118]LogAudioMixer: Display: Initializing audio mixer.
+[2023.07.07-15.28.59:172][118]LogAudioMixer: Display: 0: FrontLeft
+[2023.07.07-15.28.59:172][118]LogAudioMixer: Display: 1: FrontRight
+[2023.07.07-15.28.59:187][118]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2023.07.07-15.28.59:187][118]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.07-15.28.59:187][118]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.07-15.28.59:187][118]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.07-15.28.59:188][118]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.07.07-15.28.59:188][118]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.07.07-15.28.59:188][118]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.07.07-15.28.59:189][118]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.07.07-15.28.59:190][118]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.07.07-15.28.59:190][118]LogInit: FAudioDevice initialized.
+[2023.07.07-15.28.59:190][118]LogAudio: Display: Audio Device (ID: 18) registered with world 'FirstPersonExampleMap'.
+[2023.07.07-15.28.59:201][118]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.07.07-15.28.59:208][118]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2023.07.07-17.28.59
+[2023.07.07-15.28.59:209][118]LogWorld: Bringing up level for play took: 0.007457
+[2023.07.07-15.28.59:209][118]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2023.07.07-15.28.59:211][118]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.07.07-15.28.59:212][118]PIE: Server logged in
+[2023.07.07-15.28.59:213][118]PIE: Play in editor total start time 0,136 seconds.
+[2023.07.07-15.29.01:095][341]Cmd: LevelEditor.ToggleImmersive
+[2023.07.07-15.29.07:171][867]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.07-15.29.07:171][867]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.07.07-15.29.07:171][867]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.07.07-15.29.07:172][867]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.07-15.29.07:193][867]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.07-15.29.07:197][867]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.07-15.29.07:218][867]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.07-15.29.07:218][867]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.07.07-15.29.07:219][867]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.07.07-15.29.07:226][867]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2023.07.07-15.29.07:247][868]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2023.07.07-15.29.09:504][106]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2023.07.07-15.29.09:636][106]LogSavePackage: Moving '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Saved/FirstPersonExampleMapCCF257CA4E523AB32E7B37AB72007D37.tmp' to '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2023.07.07-15.29.09:754][106]LogSavePackage: Moving '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Saved/FirstPersonExampleMap_BuiltDataFBC2EBE44515B27AF9A6BF9B65E59141.tmp' to '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2023.07.07-15.29.09:766][106]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.07-15.29.09:766][106]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2023.07.07-15.29.09:766][106]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2023.07.07-15.29.12:039][360]LogTemp: Repeating last play command: Selected Viewport
+[2023.07.07-15.29.12:046][360]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.07-15.29.12:046][360]PIE: New page: PIE session: FirstPersonExampleMap (7 juil. 2023 à 19:29:12)
+[2023.07.07-15.29.12:089][360]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.07.07-15.29.12:113][360]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023595s)
+[2023.07.07-15.29.12:114][360]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2023.07.07-15.29.12:114][360]LogPlayLevel: PIE: World Init took: (0.001144s)
+[2023.07.07-15.29.12:114][360]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.024939s)
+[2023.07.07-15.29.12:137][360]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2023.07.07-15.29.12:137][360]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2023.07.07-15.29.12:137][360]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.07-15.29.12:138][360]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.07-15.29.12:138][360]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.07-15.29.12:138][360]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.07-15.29.12:138][360]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.07.07-15.29.12:138][360]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.07.07-15.29.12:138][360]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.07.07-15.29.12:138][360]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.07-15.29.12:138][360]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.07-15.29.12:138][360]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.07-15.29.12:138][360]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.07-15.29.12:138][360]LogAudioMixer: Display: Initializing audio mixer.
+[2023.07.07-15.29.12:141][360]LogAudioMixer: Display: 0: FrontLeft
+[2023.07.07-15.29.12:141][360]LogAudioMixer: Display: 1: FrontRight
+[2023.07.07-15.29.12:154][360]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2023.07.07-15.29.12:155][360]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.07-15.29.12:155][360]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.07-15.29.12:155][360]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.07-15.29.12:155][360]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.07.07-15.29.12:155][360]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.07.07-15.29.12:155][360]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.07.07-15.29.12:158][360]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.07.07-15.29.12:158][360]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.07.07-15.29.12:158][360]LogInit: FAudioDevice initialized.
+[2023.07.07-15.29.12:158][360]LogAudio: Display: Audio Device (ID: 19) registered with world 'FirstPersonExampleMap'.
+[2023.07.07-15.29.12:166][360]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.07.07-15.29.12:174][360]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2023.07.07-17.29.12
+[2023.07.07-15.29.12:174][360]LogWorld: Bringing up level for play took: 0.007718
+[2023.07.07-15.29.12:174][360]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2023.07.07-15.29.12:176][360]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.07.07-15.29.12:176][360]PIE: Server logged in
+[2023.07.07-15.29.12:177][360]PIE: Play in editor total start time 0,131 seconds.
+[2023.07.07-15.29.17:871][ 32]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.07-15.29.17:871][ 32]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.07.07-15.29.17:871][ 32]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.07.07-15.29.17:873][ 32]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.07-15.29.17:888][ 32]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.07-15.29.17:892][ 32]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.07-15.29.17:913][ 32]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.07-15.29.17:914][ 32]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.07.07-15.29.17:915][ 32]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.07.07-15.29.17:922][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2023.07.07-15.29.17:944][ 33]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2023.07.07-15.29.18:992][157]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2023.07.07-15.29.28:025][673]BlueprintLog: New page: Compile FirstPersonCharacter
+[2023.07.07-15.29.28:199][673]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2023.07.07-15.29.29:580][751]BlueprintLog: New page: Compile FirstPersonExampleMap
+[2023.07.07-15.29.29:629][751]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2023.07.07-15.29.29:790][751]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2023.07.07-15.29.29:926][751]LogSavePackage: Moving '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Saved/FirstPersonExampleMap360878FE4A89273F9CECF6A87B6E309A.tmp' to '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2023.07.07-15.29.29:940][751]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.174
+[2023.07.07-15.29.29:953][751]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2023.07.07-15.29.29:953][751]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2023.07.07-15.29.40:068][710]LogTemp: Repeating last play command: Selected Viewport
+[2023.07.07-15.29.40:075][710]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.07-15.29.40:075][710]PIE: New page: PIE session: FirstPersonExampleMap (7 juil. 2023 à 19:29:40)
+[2023.07.07-15.29.40:100][710]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.07.07-15.29.40:123][710]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023279s)
+[2023.07.07-15.29.40:124][710]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2023.07.07-15.29.40:125][710]LogPlayLevel: PIE: World Init took: (0.001173s)
+[2023.07.07-15.29.40:125][710]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.024662s)
+[2023.07.07-15.29.40:148][710]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2023.07.07-15.29.40:149][710]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2023.07.07-15.29.40:149][710]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.07-15.29.40:149][710]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.07-15.29.40:149][710]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.07-15.29.40:149][710]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.07-15.29.40:149][710]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.07.07-15.29.40:149][710]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.07.07-15.29.40:149][710]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.07.07-15.29.40:149][710]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.07-15.29.40:150][710]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.07-15.29.40:150][710]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.07-15.29.40:150][710]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.07-15.29.40:150][710]LogAudioMixer: Display: Initializing audio mixer.
+[2023.07.07-15.29.40:153][710]LogAudioMixer: Display: 0: FrontLeft
+[2023.07.07-15.29.40:153][710]LogAudioMixer: Display: 1: FrontRight
+[2023.07.07-15.29.40:166][710]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2023.07.07-15.29.40:167][710]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.07-15.29.40:167][710]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.07-15.29.40:167][710]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.07-15.29.40:167][710]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.07.07-15.29.40:167][710]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.07.07-15.29.40:167][710]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.07.07-15.29.40:169][710]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.07.07-15.29.40:169][710]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.07.07-15.29.40:169][710]LogInit: FAudioDevice initialized.
+[2023.07.07-15.29.40:169][710]LogAudio: Display: Audio Device (ID: 20) registered with world 'FirstPersonExampleMap'.
+[2023.07.07-15.29.40:175][710]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.07.07-15.29.40:182][710]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2023.07.07-17.29.40
+[2023.07.07-15.29.40:183][710]LogWorld: Bringing up level for play took: 0.007509
+[2023.07.07-15.29.40:183][710]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2023.07.07-15.29.40:185][710]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.07.07-15.29.40:185][710]PIE: Server logged in
+[2023.07.07-15.29.40:186][710]PIE: Play in editor total start time 0,111 seconds.
+[2023.07.07-15.29.41:279][839]Cmd: LevelEditor.ToggleImmersive
+[2023.07.07-15.29.58:001][306]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.07-15.29.58:001][306]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.07.07-15.29.58:001][306]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.07.07-15.29.58:003][306]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.07-15.29.58:026][306]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.07-15.29.58:078][306]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.07-15.29.58:099][306]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.07-15.29.58:100][306]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.07.07-15.29.58:101][306]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.07.07-15.29.58:104][306]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.07-15.29.58:109][306]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2023.07.07-15.29.58:133][307]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2023.07.07-15.30.25:608][166]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2023.07.07-15.30.25:741][166]LogSavePackage: Moving '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Saved/FirstPersonExampleMapA56259384C76B33798C714BB3773225E.tmp' to '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2023.07.07-15.30.25:756][166]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.172
+[2023.07.07-15.30.25:768][166]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2023.07.07-15.30.25:768][166]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2023.07.07-15.30.29:840][478]BlueprintLog: New page: Compile FirstPersonCharacter
+[2023.07.07-15.30.29:994][478]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2023.07.07-15.30.30:150][478]LogSavePackage: Moving '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Saved/FirstPersonCharacterCDF622A34D684C0ECF4E0A9AD0741310.tmp' to '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2023.07.07-15.30.30:171][478]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2023.07.07-15.30.30:171][478]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2023.07.07-15.30.48:402][681]BlueprintLog: New page: Compile FirstPersonCharacter
+[2023.07.07-15.30.48:557][681]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2023.07.07-15.30.48:718][681]LogSavePackage: Moving '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Saved/FirstPersonCharacter02D9E1C149149BB9800D22A589B1C37F.tmp' to '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2023.07.07-15.30.48:736][681]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2023.07.07-15.30.48:736][681]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2023.07.07-15.33.47:479][608]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.07.07-15.33.47:504][608]LogContentBrowser: Creating deferred item: NewFolder
+[2023.07.07-15.33.48:648][742]LogContentBrowser: Attempting asset rename: NewFolder -> SFX
+[2023.07.07-15.33.48:649][742]LogContentBrowser: End creating deferred item NewFolder
+[2023.07.07-15.33.56:238][914]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 ../../../../../../Users/RayanEreteo/Documents/Audacity/zapsplat_household_flashlight_button_press_20147.wav)
+[2023.07.07-15.33.57:371][  6]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave zapsplat_household_flashlight_button_press_20147...
+[2023.07.07-15.33.57:371][  6]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/MesDossiers/SFX/zapsplat_household_flashlight_button_press_20147.zapsplat_household_flashlight_button_press_20147 will be modified from 40 to 40.
+[2023.07.07-15.33.57:405][  6]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 41472 while cooking SoundWave /Game/MesDossiers/SFX/zapsplat_household_flashlight_button_press_20147.zapsplat_household_flashlight_button_press_20147.
+[2023.07.07-15.34.09:399][887]BlueprintLog: New page: Compile FirstPersonCharacter
+[2023.07.07-15.34.09:543][887]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2023.07.07-15.34.09:705][887]LogSavePackage: Moving '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Saved/FirstPersonCharacter6DB9CBB34D1D5113E805FF91537F94D8.tmp' to '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2023.07.07-15.34.09:723][887]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2023.07.07-15.34.09:723][887]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2023.07.07-15.34.18:230][706]LogTemp: Repeating last play command: Selected Viewport
+[2023.07.07-15.34.18:236][706]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.07-15.34.18:236][706]PIE: New page: PIE session: FirstPersonExampleMap (7 juil. 2023 à 19:34:18)
+[2023.07.07-15.34.18:259][706]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.07.07-15.34.18:282][706]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023153s)
+[2023.07.07-15.34.18:283][706]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2023.07.07-15.34.18:284][706]LogPlayLevel: PIE: World Init took: (0.001218s)
+[2023.07.07-15.34.18:284][706]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.024543s)
+[2023.07.07-15.34.18:307][706]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2023.07.07-15.34.18:309][706]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2023.07.07-15.34.18:309][706]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.07-15.34.18:309][706]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.07-15.34.18:309][706]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.07-15.34.18:309][706]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.07-15.34.18:309][706]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.07.07-15.34.18:309][706]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.07.07-15.34.18:309][706]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.07.07-15.34.18:309][706]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.07-15.34.18:310][706]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.07-15.34.18:310][706]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.07-15.34.18:310][706]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.07-15.34.18:310][706]LogAudioMixer: Display: Initializing audio mixer.
+[2023.07.07-15.34.18:313][706]LogAudioMixer: Display: 0: FrontLeft
+[2023.07.07-15.34.18:313][706]LogAudioMixer: Display: 1: FrontRight
+[2023.07.07-15.34.18:327][706]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2023.07.07-15.34.18:327][706]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.07-15.34.18:327][706]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.07-15.34.18:327][706]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.07-15.34.18:328][706]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.07.07-15.34.18:328][706]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.07.07-15.34.18:328][706]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.07.07-15.34.18:329][706]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.07.07-15.34.18:329][706]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.07.07-15.34.18:329][706]LogInit: FAudioDevice initialized.
+[2023.07.07-15.34.18:329][706]LogAudio: Display: Audio Device (ID: 21) registered with world 'FirstPersonExampleMap'.
+[2023.07.07-15.34.18:340][706]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.07.07-15.34.18:348][706]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2023.07.07-17.34.18
+[2023.07.07-15.34.18:348][706]LogWorld: Bringing up level for play took: 0.007468
+[2023.07.07-15.34.18:348][706]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2023.07.07-15.34.18:350][706]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.07.07-15.34.18:351][706]PIE: Server logged in
+[2023.07.07-15.34.18:352][706]PIE: Play in editor total start time 0,116 seconds.
+[2023.07.07-15.34.19:845][883]Cmd: LevelEditor.ToggleImmersive
+[2023.07.07-15.34.31:890][970]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.07-15.34.31:890][970]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.07.07-15.34.31:891][970]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.07.07-15.34.31:892][970]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.07-15.34.31:917][970]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.07-15.34.31:962][970]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.07-15.34.31:983][970]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.07-15.34.31:983][970]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.07.07-15.34.31:984][970]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.07.07-15.34.31:987][970]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.07-15.34.31:993][970]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2023.07.07-15.34.32:015][971]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2023.07.07-15.34.45:945][532]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2023.07.07-15.34.46:076][532]LogSavePackage: Moving '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Saved/FirstPersonExampleMapBBD664CF495CDAA32E4BD4A92949FA8D.tmp' to '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2023.07.07-15.34.46:089][532]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.167
+[2023.07.07-15.34.46:099][532]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2023.07.07-15.34.46:099][532]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2023.07.07-15.35.30:613][372]BlueprintLog: New page: Compile FirstPersonCharacter
+[2023.07.07-15.35.30:774][372]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2023.07.07-15.35.30:927][372]LogSavePackage: Moving '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Saved/FirstPersonCharacter4C922EBD49BE7FE5BAA156929CF6A680.tmp' to '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2023.07.07-15.35.30:946][372]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2023.07.07-15.35.30:946][372]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2023.07.07-15.35.34:858][562]LogTemp: Repeating last play command: Selected Viewport
+[2023.07.07-15.35.34:864][562]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.07-15.35.34:865][562]PIE: New page: PIE session: FirstPersonExampleMap (7 juil. 2023 à 19:35:34)
+[2023.07.07-15.35.34:889][562]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.07.07-15.35.34:912][562]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022864s)
+[2023.07.07-15.35.34:913][562]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2023.07.07-15.35.34:913][562]LogPlayLevel: PIE: World Init took: (0.001113s)
+[2023.07.07-15.35.34:913][562]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.024153s)
+[2023.07.07-15.35.34:936][562]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2023.07.07-15.35.34:937][562]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2023.07.07-15.35.34:937][562]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.07-15.35.34:937][562]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.07-15.35.34:937][562]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.07-15.35.34:937][562]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.07-15.35.34:937][562]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.07.07-15.35.34:937][562]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.07.07-15.35.34:937][562]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.07.07-15.35.34:938][562]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.07-15.35.34:938][562]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.07-15.35.34:938][562]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.07-15.35.34:938][562]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.07-15.35.34:938][562]LogAudioMixer: Display: Initializing audio mixer.
+[2023.07.07-15.35.34:941][562]LogAudioMixer: Display: 0: FrontLeft
+[2023.07.07-15.35.34:941][562]LogAudioMixer: Display: 1: FrontRight
+[2023.07.07-15.35.34:954][562]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2023.07.07-15.35.34:955][562]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.07-15.35.34:955][562]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.07-15.35.34:955][562]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.07-15.35.34:955][562]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.07.07-15.35.34:955][562]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.07.07-15.35.34:955][562]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.07.07-15.35.34:956][562]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.07.07-15.35.34:957][562]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.07.07-15.35.34:957][562]LogInit: FAudioDevice initialized.
+[2023.07.07-15.35.34:957][562]LogAudio: Display: Audio Device (ID: 22) registered with world 'FirstPersonExampleMap'.
+[2023.07.07-15.35.34:964][562]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.07.07-15.35.34:971][562]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2023.07.07-17.35.34
+[2023.07.07-15.35.34:972][562]LogWorld: Bringing up level for play took: 0.007406
+[2023.07.07-15.35.34:972][562]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2023.07.07-15.35.34:974][562]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.07.07-15.35.34:974][562]PIE: Server logged in
+[2023.07.07-15.35.34:975][562]PIE: Play in editor total start time 0,112 seconds.
+[2023.07.07-15.35.35:687][645]Cmd: LevelEditor.ToggleImmersive
+[2023.07.07-15.35.47:611][729]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.07-15.35.47:611][729]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.07.07-15.35.47:611][729]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.07.07-15.35.47:612][729]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.07-15.35.47:641][729]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.07-15.35.47:686][729]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.07-15.35.47:705][729]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.07-15.35.47:706][729]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.07.07-15.35.47:707][729]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.07.07-15.35.47:710][729]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.07-15.35.47:715][729]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2023.07.07-15.35.47:738][730]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2023.07.07-15.35.49:395][871]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2023.07.07-15.35.49:519][871]LogSavePackage: Moving '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Saved/FirstPersonExampleMap83D4260E462FED6FC783AF895749536A.tmp' to '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2023.07.07-15.35.49:635][871]LogSavePackage: Moving '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Saved/FirstPersonExampleMap_BuiltData50976CAD46BBF87C5DA61799D0A6B505.tmp' to '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2023.07.07-15.35.49:646][871]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.07-15.35.49:646][871]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2023.07.07-15.35.49:646][871]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2023.07.07-15.35.51:261][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.07.07-15.35.51:386][ 34]LogSavePackage: Moving '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Saved/FirstPersonExampleMapCE58E37143AF0E0221B6599A9100D3DF.tmp' to '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2023.07.07-15.35.51:501][ 34]LogSavePackage: Moving '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Saved/FirstPersonExampleMap_BuiltData36DDFE104CE9A346578C48A8DDB38CC0.tmp' to '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2023.07.07-15.35.51:512][ 34]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.07-15.35.51:512][ 34]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2023.07.07-15.35.51:512][ 34]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2023.07.07-15.36.25:588][162]BlueprintLog: New page: Compile FirstPersonCharacter
+[2023.07.07-15.36.25:740][162]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2023.07.07-15.36.25:897][162]LogSavePackage: Moving '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Saved/FirstPersonCharacterBC271DD346BD5168B7ED5E9A82382B72.tmp' to '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2023.07.07-15.36.25:915][162]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2023.07.07-15.36.25:915][162]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2023.07.07-15.36.32:474][803]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FloorConcrete102)
+[2023.07.07-15.36.32:948][838]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FloorConcrete98)
+[2023.07.07-15.36.39:978][516]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FloorConcrete110)
+[2023.07.07-15.36.59:624][548]Cmd: TRANSACTION UNDO
+[2023.07.07-15.36.59:624][548]LogEditorTransaction: Undo Clicking on Actors
+[2023.07.07-15.37.00:497][595]Cmd: TRANSACTION UNDO
+[2023.07.07-15.37.00:497][595]LogEditorTransaction: Undo Clicking on Actors
+[2023.07.07-15.37.01:028][646]Cmd: TRANSACTION UNDO
+[2023.07.07-15.37.01:028][646]LogEditorTransaction: Undo Clicking on Actors
+[2023.07.07-15.37.39:116][680]LogTemp: Repeating last play command: Selected Viewport
+[2023.07.07-15.37.39:123][680]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.07-15.37.39:123][680]PIE: New page: PIE session: FirstPersonExampleMap (7 juil. 2023 à 19:37:39)
+[2023.07.07-15.37.39:160][680]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.07.07-15.37.39:184][680]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024549s)
+[2023.07.07-15.37.39:185][680]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2023.07.07-15.37.39:186][680]LogPlayLevel: PIE: World Init took: (0.001243s)
+[2023.07.07-15.37.39:186][680]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.025992s)
+[2023.07.07-15.37.39:240][680]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2023.07.07-15.37.39:243][680]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2023.07.07-15.37.39:243][680]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.07-15.37.39:243][680]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.07-15.37.39:243][680]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.07-15.37.39:243][680]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.07-15.37.39:243][680]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.07.07-15.37.39:243][680]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.07.07-15.37.39:243][680]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.07.07-15.37.39:243][680]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.07-15.37.39:244][680]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.07-15.37.39:244][680]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.07-15.37.39:244][680]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.07-15.37.39:244][680]LogAudioMixer: Display: Initializing audio mixer.
+[2023.07.07-15.37.39:247][680]LogAudioMixer: Display: 0: FrontLeft
+[2023.07.07-15.37.39:247][680]LogAudioMixer: Display: 1: FrontRight
+[2023.07.07-15.37.39:261][680]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2023.07.07-15.37.39:261][680]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.07-15.37.39:261][680]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.07-15.37.39:261][680]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.07-15.37.39:262][680]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.07.07-15.37.39:262][680]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.07.07-15.37.39:262][680]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.07.07-15.37.39:263][680]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.07.07-15.37.39:263][680]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.07.07-15.37.39:263][680]LogInit: FAudioDevice initialized.
+[2023.07.07-15.37.39:263][680]LogAudio: Display: Audio Device (ID: 23) registered with world 'FirstPersonExampleMap'.
+[2023.07.07-15.37.39:274][680]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.07.07-15.37.39:281][680]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2023.07.07-17.37.39
+[2023.07.07-15.37.39:282][680]LogWorld: Bringing up level for play took: 0.007312
+[2023.07.07-15.37.39:282][680]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2023.07.07-15.37.39:284][680]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.07.07-15.37.39:284][680]PIE: Server logged in
+[2023.07.07-15.37.39:285][680]PIE: Play in editor total start time 0,163 seconds.
+[2023.07.07-15.37.48:501][762]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.07-15.37.48:501][762]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.07.07-15.37.48:501][762]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.07.07-15.37.48:503][762]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.07-15.37.48:521][762]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.07-15.37.48:545][762]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.07-15.37.48:571][762]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.07-15.37.48:572][762]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.07.07-15.37.48:573][762]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.07.07-15.37.48:576][762]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.07-15.37.48:587][762]LogUObjectHash: Compacting FUObjectHashTables data took   4.71ms
+[2023.07.07-15.37.48:635][763]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2023.07.07-15.37.52:442][ 62]LogTemp: Repeating last play command: Selected Viewport
+[2023.07.07-15.37.52:448][ 62]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.07-15.37.52:448][ 62]PIE: New page: PIE session: FirstPersonExampleMap (7 juil. 2023 à 19:37:52)
+[2023.07.07-15.37.52:469][ 62]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.07.07-15.37.52:492][ 62]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022768s)
+[2023.07.07-15.37.52:493][ 62]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2023.07.07-15.37.52:493][ 62]LogPlayLevel: PIE: World Init took: (0.001115s)
+[2023.07.07-15.37.52:494][ 62]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.024086s)
+[2023.07.07-15.37.52:521][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2023.07.07-15.37.52:524][ 62]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2023.07.07-15.37.52:524][ 62]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.07-15.37.52:524][ 62]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.07-15.37.52:524][ 62]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.07-15.37.52:524][ 62]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.07-15.37.52:524][ 62]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.07.07-15.37.52:524][ 62]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.07.07-15.37.52:524][ 62]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.07.07-15.37.52:524][ 62]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.07-15.37.52:525][ 62]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.07-15.37.52:525][ 62]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.07-15.37.52:525][ 62]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.07-15.37.52:525][ 62]LogAudioMixer: Display: Initializing audio mixer.
+[2023.07.07-15.37.52:528][ 62]LogAudioMixer: Display: 0: FrontLeft
+[2023.07.07-15.37.52:528][ 62]LogAudioMixer: Display: 1: FrontRight
+[2023.07.07-15.37.52:541][ 62]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2023.07.07-15.37.52:542][ 62]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.07-15.37.52:542][ 62]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.07-15.37.52:542][ 62]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.07-15.37.52:542][ 62]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.07.07-15.37.52:542][ 62]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.07.07-15.37.52:542][ 62]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.07.07-15.37.52:544][ 62]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.07.07-15.37.52:544][ 62]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.07.07-15.37.52:544][ 62]LogInit: FAudioDevice initialized.
+[2023.07.07-15.37.52:544][ 62]LogAudio: Display: Audio Device (ID: 24) registered with world 'FirstPersonExampleMap'.
+[2023.07.07-15.37.52:550][ 62]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.07.07-15.37.52:557][ 62]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2023.07.07-17.37.52
+[2023.07.07-15.37.52:557][ 62]LogWorld: Bringing up level for play took: 0.007455
+[2023.07.07-15.37.52:558][ 62]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2023.07.07-15.37.52:560][ 62]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.07.07-15.37.52:560][ 62]PIE: Server logged in
+[2023.07.07-15.37.52:561][ 62]PIE: Play in editor total start time 0,114 seconds.
+[2023.07.07-15.37.58:521][769]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.07-15.37.58:521][769]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.07.07-15.37.58:521][769]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.07.07-15.37.58:523][769]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.07-15.37.58:534][769]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.07-15.37.58:559][769]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.07-15.37.58:584][769]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.07-15.37.58:585][769]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.07.07-15.37.58:586][769]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.07.07-15.37.58:589][769]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.07-15.37.58:594][769]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2023.07.07-15.37.58:641][770]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2023.07.07-15.37.59:355][819]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2023.07.07-15.37.59:472][819]LogSavePackage: Moving '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Saved/FirstPersonExampleMap2146758540B5546B6B9DAD9E647023BD.tmp' to '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2023.07.07-15.37.59:600][819]LogSavePackage: Moving '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Saved/FirstPersonExampleMap_BuiltData1308D9294C8D9CC8B81E55B26AAAF142.tmp' to '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2023.07.07-15.37.59:612][819]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.07-15.37.59:612][819]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2023.07.07-15.37.59:612][819]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2023.07.07-15.38.01:449][971]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallBrick47)
+[2023.07.07-15.38.02:469][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.07.07-15.38.02:594][ 57]LogSavePackage: Moving '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Saved/FirstPersonExampleMapBA02AED646B9B042B8612FB686B34CBE.tmp' to '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2023.07.07-15.38.02:717][ 57]LogSavePackage: Moving '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Saved/FirstPersonExampleMap_BuiltDataB8DAA44045CD9D04E23F0D9E4A53C610.tmp' to '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2023.07.07-15.38.02:733][ 57]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.07-15.38.02:733][ 57]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2023.07.07-15.38.02:733][ 57]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2023.07.07-15.38.04:911][264]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2023.07.07-15.38.10:358][837]Cmd: DELETE
+[2023.07.07-15.38.10:358][837]Cmd: ACTOR DELETE
+[2023.07.07-15.38.10:367][837]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.07.07-15.38.10:394][837]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.07.07-15.38.10:396][837]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2023.07.07-15.38.26:867][525]LogActorFactory: Actor Factory created SM_Single_Door02
+[2023.07.07-15.38.27:460][592]LogActorFactory: Actor Factory created SM_Single_Door02
+[2023.07.07-15.38.45:867][538]Cmd: MODE GRID=0
+[2023.07.07-15.39.02:840][392]Cmd: TRANSACTION UNDO
+[2023.07.07-15.39.02:840][392]LogEditorTransaction: Undo Scale Actors
+[2023.07.07-15.39.15:733][744]Cmd: TRANSACTION UNDO
+[2023.07.07-15.39.15:733][744]LogEditorTransaction: Undo Move Actors
+[2023.07.07-15.39.15:928][749]Cmd: TRANSACTION UNDO
+[2023.07.07-15.39.15:928][749]LogEditorTransaction: Undo Move Actors
+[2023.07.07-15.39.16:353][769]Cmd: TRANSACTION UNDO
+[2023.07.07-15.39.16:353][769]LogEditorTransaction: Undo Rotate Actors
+[2023.07.07-15.39.18:158][943]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2023.07.07-15.39.18:277][943]LogSavePackage: Moving '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Saved/FirstPersonExampleMapFDEAA6B549EB38F5BDBF59A391E1D511.tmp' to '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2023.07.07-15.39.18:391][943]LogSavePackage: Moving '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Saved/FirstPersonExampleMap_BuiltData166E7ACD40BCA0F6C850959A75F08197.tmp' to '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2023.07.07-15.39.18:405][943]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.07-15.39.18:406][943]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2023.07.07-15.39.18:406][943]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2023.07.07-15.39.18:913][995]LogTemp: Repeating last play command: Selected Viewport
+[2023.07.07-15.39.18:920][995]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.07-15.39.18:920][995]PIE: New page: PIE session: FirstPersonExampleMap (7 juil. 2023 à 19:39:18)
+[2023.07.07-15.39.18:959][995]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.07.07-15.39.18:981][995]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022066s)
+[2023.07.07-15.39.18:982][995]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2023.07.07-15.39.18:983][995]LogPlayLevel: PIE: World Init took: (0.001194s)
+[2023.07.07-15.39.18:983][995]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.023444s)
+[2023.07.07-15.39.19:009][995]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2023.07.07-15.39.19:010][995]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2023.07.07-15.39.19:010][995]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.07-15.39.19:010][995]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.07-15.39.19:010][995]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.07-15.39.19:010][995]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.07-15.39.19:010][995]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.07.07-15.39.19:010][995]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.07.07-15.39.19:010][995]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.07.07-15.39.19:010][995]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.07-15.39.19:011][995]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.07-15.39.19:011][995]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.07-15.39.19:011][995]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.07-15.39.19:011][995]LogAudioMixer: Display: Initializing audio mixer.
+[2023.07.07-15.39.19:013][995]LogAudioMixer: Display: 0: FrontLeft
+[2023.07.07-15.39.19:013][995]LogAudioMixer: Display: 1: FrontRight
+[2023.07.07-15.39.19:027][995]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2023.07.07-15.39.19:027][995]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.07-15.39.19:027][995]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.07-15.39.19:027][995]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.07-15.39.19:028][995]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.07.07-15.39.19:028][995]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.07.07-15.39.19:028][995]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.07.07-15.39.19:030][995]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.07.07-15.39.19:030][995]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.07.07-15.39.19:030][995]LogInit: FAudioDevice initialized.
+[2023.07.07-15.39.19:030][995]LogAudio: Display: Audio Device (ID: 25) registered with world 'FirstPersonExampleMap'.
+[2023.07.07-15.39.19:039][995]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.07.07-15.39.19:048][995]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2023.07.07-17.39.19
+[2023.07.07-15.39.19:048][995]LogWorld: Bringing up level for play took: 0.007975
+[2023.07.07-15.39.19:048][995]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2023.07.07-15.39.19:050][995]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.07.07-15.39.19:051][995]PIE: Server logged in
+[2023.07.07-15.39.19:052][995]PIE: Play in editor total start time 0,133 seconds.
+[2023.07.07-15.39.21:231][246]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.07-15.39.21:231][246]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.07.07-15.39.21:231][246]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.07.07-15.39.21:232][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.07-15.39.21:241][246]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.07-15.39.21:261][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.07-15.39.21:285][246]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.07-15.39.21:286][246]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.07.07-15.39.21:287][246]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.07.07-15.39.21:294][246]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2023.07.07-15.39.21:336][247]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2023.07.07-15.39.28:337][993]LogTemp: Repeating last play command: Selected Viewport
+[2023.07.07-15.39.28:344][993]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.07-15.39.28:344][993]PIE: New page: PIE session: FirstPersonExampleMap (7 juil. 2023 à 19:39:28)
+[2023.07.07-15.39.28:344][993]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.07.07-15.39.28:366][993]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022289s)
+[2023.07.07-15.39.28:367][993]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2023.07.07-15.39.28:368][993]LogPlayLevel: PIE: World Init took: (0.001134s)
+[2023.07.07-15.39.28:368][993]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.023580s)
+[2023.07.07-15.39.28:394][993]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2023.07.07-15.39.28:396][993]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2023.07.07-15.39.28:396][993]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.07-15.39.28:396][993]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.07-15.39.28:396][993]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.07-15.39.28:396][993]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.07-15.39.28:396][993]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.07.07-15.39.28:396][993]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.07.07-15.39.28:396][993]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.07.07-15.39.28:396][993]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.07-15.39.28:397][993]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.07-15.39.28:397][993]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.07-15.39.28:397][993]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.07-15.39.28:397][993]LogAudioMixer: Display: Initializing audio mixer.
+[2023.07.07-15.39.28:400][993]LogAudioMixer: Display: 0: FrontLeft
+[2023.07.07-15.39.28:400][993]LogAudioMixer: Display: 1: FrontRight
+[2023.07.07-15.39.28:413][993]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2023.07.07-15.39.28:413][993]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.07-15.39.28:413][993]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.07-15.39.28:413][993]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.07-15.39.28:414][993]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.07.07-15.39.28:414][993]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.07.07-15.39.28:414][993]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.07.07-15.39.28:415][993]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.07.07-15.39.28:415][993]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.07.07-15.39.28:415][993]LogInit: FAudioDevice initialized.
+[2023.07.07-15.39.28:415][993]LogAudio: Display: Audio Device (ID: 26) registered with world 'FirstPersonExampleMap'.
+[2023.07.07-15.39.28:425][993]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.07.07-15.39.28:434][993]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2023.07.07-17.39.28
+[2023.07.07-15.39.28:434][993]LogWorld: Bringing up level for play took: 0.007306
+[2023.07.07-15.39.28:434][993]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2023.07.07-15.39.28:436][993]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.07.07-15.39.28:437][993]PIE: Server logged in
+[2023.07.07-15.39.28:438][993]PIE: Play in editor total start time 0,094 seconds.
+[2023.07.07-15.39.30:680][256]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.07-15.39.30:680][256]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.07.07-15.39.30:681][256]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.07.07-15.39.30:682][256]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.07-15.39.30:693][256]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.07-15.39.30:714][256]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.07-15.39.30:737][256]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.07-15.39.30:738][256]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.07.07-15.39.30:739][256]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.07.07-15.39.30:746][256]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2023.07.07-15.39.30:789][257]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2023.07.07-15.39.41:673][385]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2023.07.07-15.39.41:792][385]LogSavePackage: Moving '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Saved/FirstPersonExampleMap46CC0C374955E04FA70DC29B401D54F8.tmp' to '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2023.07.07-15.39.41:917][385]LogSavePackage: Moving '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Saved/FirstPersonExampleMap_BuiltDataEE4D2595439F425AFFD5EFBD79C869E8.tmp' to '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2023.07.07-15.39.41:931][385]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.07-15.39.41:931][385]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2023.07.07-15.39.41:931][385]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2023.07.07-15.39.42:177][410]LogTemp: Repeating last play command: Selected Viewport
+[2023.07.07-15.39.42:184][410]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.07-15.39.42:184][410]PIE: New page: PIE session: FirstPersonExampleMap (7 juil. 2023 à 19:39:42)
+[2023.07.07-15.39.42:209][410]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.07.07-15.39.42:231][410]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021856s)
+[2023.07.07-15.39.42:232][410]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2023.07.07-15.39.42:232][410]LogPlayLevel: PIE: World Init took: (0.001150s)
+[2023.07.07-15.39.42:232][410]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.023192s)
+[2023.07.07-15.39.42:259][410]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2023.07.07-15.39.42:260][410]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2023.07.07-15.39.42:260][410]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.07-15.39.42:260][410]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.07-15.39.42:260][410]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.07-15.39.42:260][410]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.07-15.39.42:260][410]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.07.07-15.39.42:260][410]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.07.07-15.39.42:260][410]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.07.07-15.39.42:260][410]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.07-15.39.42:261][410]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.07-15.39.42:261][410]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.07-15.39.42:261][410]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.07-15.39.42:261][410]LogAudioMixer: Display: Initializing audio mixer.
+[2023.07.07-15.39.42:263][410]LogAudioMixer: Display: 0: FrontLeft
+[2023.07.07-15.39.42:263][410]LogAudioMixer: Display: 1: FrontRight
+[2023.07.07-15.39.42:277][410]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2023.07.07-15.39.42:277][410]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.07-15.39.42:277][410]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.07-15.39.42:277][410]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.07-15.39.42:278][410]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.07.07-15.39.42:278][410]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.07.07-15.39.42:278][410]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.07.07-15.39.42:279][410]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.07.07-15.39.42:279][410]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.07.07-15.39.42:279][410]LogInit: FAudioDevice initialized.
+[2023.07.07-15.39.42:279][410]LogAudio: Display: Audio Device (ID: 27) registered with world 'FirstPersonExampleMap'.
+[2023.07.07-15.39.42:291][410]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.07.07-15.39.42:299][410]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2023.07.07-17.39.42
+[2023.07.07-15.39.42:299][410]LogWorld: Bringing up level for play took: 0.007500
+[2023.07.07-15.39.42:300][410]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2023.07.07-15.39.42:302][410]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.07.07-15.39.42:302][410]PIE: Server logged in
+[2023.07.07-15.39.42:303][410]PIE: Play in editor total start time 0,12 seconds.
+[2023.07.07-15.39.44:810][699]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.07-15.39.44:810][699]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.07.07-15.39.44:810][699]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.07.07-15.39.44:812][699]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.07-15.39.44:820][699]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.07-15.39.44:843][699]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.07-15.39.44:866][699]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.07-15.39.44:867][699]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.07.07-15.39.44:868][699]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.07.07-15.39.44:876][699]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2023.07.07-15.39.44:919][700]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2023.07.07-15.39.50:803][327]LogTemp: Repeating last play command: Selected Viewport
+[2023.07.07-15.39.50:810][327]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.07-15.39.50:810][327]PIE: New page: PIE session: FirstPersonExampleMap (7 juil. 2023 à 19:39:50)
+[2023.07.07-15.39.50:849][327]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.07.07-15.39.50:871][327]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022296s)
+[2023.07.07-15.39.50:872][327]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2023.07.07-15.39.50:873][327]LogPlayLevel: PIE: World Init took: (0.001247s)
+[2023.07.07-15.39.50:873][327]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.023733s)
+[2023.07.07-15.39.50:900][327]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2023.07.07-15.39.50:901][327]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2023.07.07-15.39.50:902][327]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.07-15.39.50:902][327]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.07-15.39.50:902][327]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.07-15.39.50:902][327]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.07-15.39.50:902][327]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.07.07-15.39.50:902][327]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.07.07-15.39.50:902][327]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.07.07-15.39.50:902][327]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.07-15.39.50:902][327]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.07-15.39.50:902][327]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.07-15.39.50:902][327]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.07-15.39.50:902][327]LogAudioMixer: Display: Initializing audio mixer.
+[2023.07.07-15.39.50:905][327]LogAudioMixer: Display: 0: FrontLeft
+[2023.07.07-15.39.50:905][327]LogAudioMixer: Display: 1: FrontRight
+[2023.07.07-15.39.50:919][327]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2023.07.07-15.39.50:919][327]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.07-15.39.50:920][327]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.07-15.39.50:920][327]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.07-15.39.50:920][327]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.07.07-15.39.50:920][327]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.07.07-15.39.50:920][327]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.07.07-15.39.50:922][327]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.07.07-15.39.50:922][327]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.07.07-15.39.50:922][327]LogInit: FAudioDevice initialized.
+[2023.07.07-15.39.50:922][327]LogAudio: Display: Audio Device (ID: 28) registered with world 'FirstPersonExampleMap'.
+[2023.07.07-15.39.50:934][327]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.07.07-15.39.50:941][327]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2023.07.07-17.39.50
+[2023.07.07-15.39.50:941][327]LogWorld: Bringing up level for play took: 0.007308
+[2023.07.07-15.39.50:941][327]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2023.07.07-15.39.50:943][327]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.07.07-15.39.50:944][327]PIE: Server logged in
+[2023.07.07-15.39.50:945][327]PIE: Play in editor total start time 0,134 seconds.
+[2023.07.07-15.39.59:071][296]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.07-15.39.59:071][296]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.07.07-15.39.59:071][296]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.07.07-15.39.59:072][296]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.07-15.39.59:083][296]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.07-15.39.59:104][296]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.07-15.39.59:127][296]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.07-15.39.59:128][296]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.07.07-15.39.59:129][296]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.07.07-15.39.59:138][296]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2023.07.07-15.39.59:181][297]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2023.07.07-15.39.59:774][347]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2023.07.07-15.39.59:892][347]LogSavePackage: Moving '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Saved/FirstPersonExampleMap4F0F849541CC23DE56B7CAA10DE6EDA7.tmp' to '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2023.07.07-15.40.00:006][347]LogSavePackage: Moving '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Saved/FirstPersonExampleMap_BuiltData4FEE105043BC42388B417E9233FD8702.tmp' to '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2023.07.07-15.40.00:019][347]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.07-15.40.00:019][347]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2023.07.07-15.40.00:019][347]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2023.07.07-15.41.30:820][898]LogActorFactory: Actor Factory created SM_Metal_Rack
+[2023.07.07-15.41.31:227][934]LogActorFactory: Actor Factory created SM_Metal_Rack
+[2023.07.07-15.41.34:084][206]Cmd: TRANSACTION UNDO
+[2023.07.07-15.41.34:084][206]LogEditorTransaction: Undo Scale Actors
+[2023.07.07-15.41.34:876][246]Cmd: MODE SCALEGRID=1
+[2023.07.07-15.41.37:588][525]LogTemp: Repeating last play command: Selected Viewport
+[2023.07.07-15.41.37:594][525]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.07-15.41.37:595][525]PIE: New page: PIE session: FirstPersonExampleMap (7 juil. 2023 à 19:41:37)
+[2023.07.07-15.41.37:620][525]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.07.07-15.41.37:642][525]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022317s)
+[2023.07.07-15.41.37:643][525]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2023.07.07-15.41.37:644][525]LogPlayLevel: PIE: World Init took: (0.001198s)
+[2023.07.07-15.41.37:644][525]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.023688s)
+[2023.07.07-15.41.37:672][525]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2023.07.07-15.41.37:676][525]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2023.07.07-15.41.37:676][525]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.07-15.41.37:676][525]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.07-15.41.37:676][525]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.07-15.41.37:676][525]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.07-15.41.37:676][525]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.07.07-15.41.37:676][525]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.07.07-15.41.37:676][525]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.07.07-15.41.37:676][525]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.07-15.41.37:677][525]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.07-15.41.37:677][525]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.07-15.41.37:677][525]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.07-15.41.37:677][525]LogAudioMixer: Display: Initializing audio mixer.
+[2023.07.07-15.41.37:679][525]LogAudioMixer: Display: 0: FrontLeft
+[2023.07.07-15.41.37:679][525]LogAudioMixer: Display: 1: FrontRight
+[2023.07.07-15.41.37:693][525]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2023.07.07-15.41.37:693][525]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.07-15.41.37:693][525]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.07-15.41.37:694][525]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.07-15.41.37:694][525]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.07.07-15.41.37:694][525]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.07.07-15.41.37:694][525]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.07.07-15.41.37:696][525]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.07.07-15.41.37:696][525]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.07.07-15.41.37:696][525]LogInit: FAudioDevice initialized.
+[2023.07.07-15.41.37:696][525]LogAudio: Display: Audio Device (ID: 29) registered with world 'FirstPersonExampleMap'.
+[2023.07.07-15.41.37:704][525]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.07.07-15.41.37:712][525]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2023.07.07-17.41.37
+[2023.07.07-15.41.37:712][525]LogWorld: Bringing up level for play took: 0.007629
+[2023.07.07-15.41.37:712][525]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2023.07.07-15.41.37:714][525]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.07.07-15.41.37:715][525]PIE: Server logged in
+[2023.07.07-15.41.37:715][525]PIE: Play in editor total start time 0,122 seconds.
+[2023.07.07-15.41.42:880][137]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.07-15.41.42:880][137]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.07.07-15.41.42:881][137]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.07.07-15.41.42:882][137]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.07-15.41.42:898][137]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.07-15.41.42:918][137]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.07-15.41.42:944][137]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.07-15.41.42:944][137]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.07.07-15.41.42:945][137]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.07.07-15.41.42:948][137]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.07-15.41.42:954][137]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2023.07.07-15.41.42:997][138]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2023.07.07-15.41.50:626][895]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2023.07.07-15.41.50:744][895]LogSavePackage: Moving '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Saved/FirstPersonExampleMapD85F6EE542C4110E00E66D94F9DABF98.tmp' to '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2023.07.07-15.41.50:860][895]LogSavePackage: Moving '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Saved/FirstPersonExampleMap_BuiltDataFB952A6B4500CFA6B1AB24B4A97AC694.tmp' to '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2023.07.07-15.41.50:872][895]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.07-15.41.50:872][895]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2023.07.07-15.41.50:872][895]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2023.07.07-15.41.55:002][170]LogActorFactory: Actor Factory created SM_Cinder_Blocks
+[2023.07.07-15.41.56:705][316]LogActorFactory: Actor Factory created SM_Cinder_Blocks
+[2023.07.07-15.41.58:296][469]Cmd: EDIT COPY
+[2023.07.07-15.41.58:512][483]Cmd: EDIT PASTE
+[2023.07.07-15.42.04:425][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2023.07.07-15.42.04:545][ 35]LogSavePackage: Moving '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Saved/FirstPersonExampleMapA5B6FC6F4A19AED16461EAA78C7AD2A4.tmp' to '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2023.07.07-15.42.04:660][ 35]LogSavePackage: Moving '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Saved/FirstPersonExampleMap_BuiltData8926E39D4C7BE4489A6960A22C346130.tmp' to '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2023.07.07-15.42.04:672][ 35]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.07-15.42.04:672][ 35]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2023.07.07-15.42.04:672][ 35]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2023.07.07-15.42.05:617][114]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallBrick45)
+[2023.07.07-15.42.22:370][665]LogActorFactory: Actor Factory created SM_Bottle_Fat
+[2023.07.07-15.42.22:856][708]LogActorFactory: Actor Factory created SM_Bottle_Fat
+[2023.07.07-15.42.23:766][767]LogActorFactory: Actor Factory created SM_Bottle_Medium
+[2023.07.07-15.42.24:096][796]LogActorFactory: Actor Factory created SM_Bottle_Medium
+[2023.07.07-15.42.26:120][955]LogActorFactory: Actor Factory created SM_Cardboard_Box05
+[2023.07.07-15.42.26:856][ 16]LogActorFactory: Actor Factory created SM_Cardboard_Box05
+[2023.07.07-15.42.31:237][353]LogActorFactory: Actor Factory created SM_CCTV_Heavy
+[2023.07.07-15.42.31:840][404]LogActorFactory: Actor Factory created SM_CCTV_Heavy
+[2023.07.07-15.42.46:120][804]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallBrick47)
+[2023.07.07-15.42.47:690][930]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_CCTV_Heavy)
+[2023.07.07-15.42.49:329][ 69]LogTemp: Repeating last play command: Selected Viewport
+[2023.07.07-15.42.49:335][ 69]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.07-15.42.49:336][ 69]PIE: New page: PIE session: FirstPersonExampleMap (7 juil. 2023 à 19:42:49)
+[2023.07.07-15.42.49:369][ 69]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.07.07-15.42.49:392][ 69]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022669s)
+[2023.07.07-15.42.49:393][ 69]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2023.07.07-15.42.49:394][ 69]LogPlayLevel: PIE: World Init took: (0.001289s)
+[2023.07.07-15.42.49:394][ 69]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.024152s)
+[2023.07.07-15.42.49:421][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2023.07.07-15.42.49:425][ 69]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2023.07.07-15.42.49:425][ 69]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.07-15.42.49:425][ 69]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.07-15.42.49:425][ 69]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.07-15.42.49:425][ 69]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.07-15.42.49:425][ 69]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.07.07-15.42.49:425][ 69]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.07.07-15.42.49:425][ 69]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.07.07-15.42.49:425][ 69]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.07-15.42.49:426][ 69]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.07-15.42.49:426][ 69]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.07-15.42.49:426][ 69]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.07-15.42.49:426][ 69]LogAudioMixer: Display: Initializing audio mixer.
+[2023.07.07-15.42.49:428][ 69]LogAudioMixer: Display: 0: FrontLeft
+[2023.07.07-15.42.49:428][ 69]LogAudioMixer: Display: 1: FrontRight
+[2023.07.07-15.42.49:442][ 69]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2023.07.07-15.42.49:443][ 69]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.07-15.42.49:443][ 69]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.07-15.42.49:443][ 69]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.07-15.42.49:443][ 69]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.07.07-15.42.49:443][ 69]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.07.07-15.42.49:443][ 69]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.07.07-15.42.49:445][ 69]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.07.07-15.42.49:445][ 69]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.07.07-15.42.49:445][ 69]LogInit: FAudioDevice initialized.
+[2023.07.07-15.42.49:445][ 69]LogAudio: Display: Audio Device (ID: 30) registered with world 'FirstPersonExampleMap'.
+[2023.07.07-15.42.49:452][ 69]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.07.07-15.42.49:460][ 69]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2023.07.07-17.42.49
+[2023.07.07-15.42.49:460][ 69]LogWorld: Bringing up level for play took: 0.007714
+[2023.07.07-15.42.49:460][ 69]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2023.07.07-15.42.49:462][ 69]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.07.07-15.42.49:463][ 69]PIE: Server logged in
+[2023.07.07-15.42.49:464][ 69]PIE: Play in editor total start time 0,13 seconds.
+[2023.07.07-15.42.56:361][891]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.07-15.42.56:361][891]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.07.07-15.42.56:361][891]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.07.07-15.42.56:362][891]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.07-15.42.56:377][891]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.07-15.42.56:398][891]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.07-15.42.56:423][891]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.07-15.42.56:423][891]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.07.07-15.42.56:424][891]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.07.07-15.42.56:427][891]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.07-15.42.56:432][891]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2023.07.07-15.42.56:474][892]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2023.07.07-15.42.57:194][949]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2023.07.07-15.42.57:314][949]LogSavePackage: Moving '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Saved/FirstPersonExampleMapF55DE073401560A15EAC22B26B87C602.tmp' to '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2023.07.07-15.42.57:427][949]LogSavePackage: Moving '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Saved/FirstPersonExampleMap_BuiltData1E91B2F84F1124B9BA3EDB81CAEB572E.tmp' to '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2023.07.07-15.42.57:440][949]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.07-15.42.57:440][949]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2023.07.07-15.42.57:440][949]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2023.07.07-15.42.59:772][149]LogActorFactory: Actor Factory created SM_Bucket
+[2023.07.07-15.43.00:285][192]LogActorFactory: Actor Factory created SM_Bucket
+[2023.07.07-15.43.03:956][494]LogActorFactory: Actor Factory created SM_Cement_Bag
+[2023.07.07-15.43.04:264][520]LogActorFactory: Actor Factory created SM_Cement_Bag
+[2023.07.07-15.43.07:903][841]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Metal_Rack)
+[2023.07.07-15.43.08:489][898]Cmd: EDIT COPY
+[2023.07.07-15.43.08:680][918]Cmd: EDIT PASTE
+[2023.07.07-15.43.16:970][668]LogActorFactory: Actor Factory created SM_Can
+[2023.07.07-15.43.20:053][928]LogActorFactory: Actor Factory created SM_Cardboard_Box06
+[2023.07.07-15.43.20:697][987]LogActorFactory: Actor Factory created SM_Cardboard_Box06
+[2023.07.07-15.43.21:519][ 69]Cmd: EDIT COPY
+[2023.07.07-15.43.21:684][ 86]Cmd: EDIT PASTE
+[2023.07.07-15.43.23:304][252]Cmd: EDIT COPY
+[2023.07.07-15.43.23:480][270]Cmd: EDIT PASTE
+[2023.07.07-15.43.26:318][538]Cmd: EDIT COPY
+[2023.07.07-15.43.26:512][553]Cmd: EDIT PASTE
+[2023.07.07-15.43.30:036][918]Cmd: EDIT COPY
+[2023.07.07-15.43.30:232][939]Cmd: EDIT PASTE
+[2023.07.07-15.43.39:278][818]LogActorFactory: Actor Factory created SM_Bin
+[2023.07.07-15.43.39:987][884]LogActorFactory: Actor Factory created SM_Bin
+[2023.07.07-15.43.43:607][175]LogActorFactory: Actor Factory created SM_Bin_Bag01
+[2023.07.07-15.43.44:017][215]LogActorFactory: Actor Factory created SM_Bin_Bag01
+[2023.07.07-15.43.45:587][332]LogActorFactory: Actor Factory created SM_Bin_Bag02
+[2023.07.07-15.43.46:218][388]LogActorFactory: Actor Factory created SM_Bin_Bag02
+[2023.07.07-15.43.47:169][450]LogActorFactory: Actor Factory created SM_Bin_Bag03
+[2023.07.07-15.43.48:003][526]LogActorFactory: Actor Factory created SM_Bin_Bag03
+[2023.07.07-15.43.48:877][606]LogTemp: Repeating last play command: Selected Viewport
+[2023.07.07-15.43.48:884][606]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.07-15.43.48:884][606]PIE: New page: PIE session: FirstPersonExampleMap (7 juil. 2023 à 19:43:48)
+[2023.07.07-15.43.48:909][606]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.07.07-15.43.48:933][606]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023451s)
+[2023.07.07-15.43.48:934][606]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2023.07.07-15.43.48:934][606]LogPlayLevel: PIE: World Init took: (0.001177s)
+[2023.07.07-15.43.48:934][606]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.024815s)
+[2023.07.07-15.43.48:962][606]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2023.07.07-15.43.48:964][606]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2023.07.07-15.43.48:965][606]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.07-15.43.48:965][606]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.07-15.43.48:965][606]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.07-15.43.48:965][606]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.07-15.43.48:965][606]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.07.07-15.43.48:965][606]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.07.07-15.43.48:965][606]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.07.07-15.43.48:965][606]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.07-15.43.48:965][606]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.07-15.43.48:965][606]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.07-15.43.48:965][606]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.07-15.43.48:965][606]LogAudioMixer: Display: Initializing audio mixer.
+[2023.07.07-15.43.48:968][606]LogAudioMixer: Display: 0: FrontLeft
+[2023.07.07-15.43.48:968][606]LogAudioMixer: Display: 1: FrontRight
+[2023.07.07-15.43.48:982][606]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2023.07.07-15.43.48:982][606]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.07-15.43.48:982][606]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.07-15.43.48:982][606]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.07-15.43.48:982][606]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.07.07-15.43.48:983][606]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.07.07-15.43.48:983][606]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.07.07-15.43.48:984][606]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.07.07-15.43.48:984][606]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.07.07-15.43.48:984][606]LogInit: FAudioDevice initialized.
+[2023.07.07-15.43.48:984][606]LogAudio: Display: Audio Device (ID: 31) registered with world 'FirstPersonExampleMap'.
+[2023.07.07-15.43.48:994][606]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.07.07-15.43.49:003][606]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2023.07.07-17.43.49
+[2023.07.07-15.43.49:003][606]LogWorld: Bringing up level for play took: 0.008126
+[2023.07.07-15.43.49:003][606]LogOnline: OSS: Creating online subsystem instance for: :Context_37
+[2023.07.07-15.43.49:005][606]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.07.07-15.43.49:006][606]PIE: Server logged in
+[2023.07.07-15.43.49:006][606]PIE: Play in editor total start time 0,124 seconds.
+[2023.07.07-15.43.50:028][727]Cmd: LevelEditor.ToggleImmersive
+[2023.07.07-15.43.59:971][581]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.07-15.43.59:971][581]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.07.07-15.43.59:971][581]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.07.07-15.43.59:973][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.07-15.43.59:995][581]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.07-15.44.00:018][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.07-15.44.00:044][581]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.07-15.44.00:044][581]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.07.07-15.44.00:045][581]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.07.07-15.44.00:048][581]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.07-15.44.00:055][581]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2023.07.07-15.44.00:078][582]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2023.07.07-15.44.02:301][777]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2023.07.07-15.44.02:542][777]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.07.07-15.44.02:664][777]LogSavePackage: Moving '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Saved/FirstPersonExampleMapC49206DC47E0A0919BDD11BF6CFE02D1.tmp' to '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2023.07.07-15.44.02:677][777]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.161
+[2023.07.07-15.44.02:683][777]LogSavePackage: Moving '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Saved/zapsplat_household_flashlight_buCF57D31C4CB8370A3A657482740480E5.tmp' to '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Content/MesDossiers/SFX/zapsplat_household_flashlight_button_press_20147.uasset'
+[2023.07.07-15.44.02:992][777]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2023.07.07-15.44.03:027][777]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2023.07.07-15.44.03:052][777]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.07.07-15.44.03:061][777]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.07-15.44.03:062][777]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2023.07.07-15.44.03:062][777]LogContentValidation: Display: Validating SoundWave /Game/MesDossiers/SFX/zapsplat_household_flashlight_button_press_20147.zapsplat_household_flashlight_button_press_20147
+[2023.07.07-15.44.17:942][ 73]LogActorFactory: Actor Factory created SM_Military_Crate
+[2023.07.07-15.44.18:527][126]LogActorFactory: Actor Factory created SM_Military_Crate
+[2023.07.07-15.44.19:603][202]LogActorFactory: Actor Factory created SM_Military_Crate_Open
+[2023.07.07-15.44.21:077][339]LogActorFactory: Actor Factory created SM_Military_Crate_Open
+[2023.07.07-15.44.22:481][468]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Military_Crate)
+[2023.07.07-15.44.22:675][478]Cmd: EDIT COPY
+[2023.07.07-15.44.22:867][491]Cmd: EDIT PASTE
+[2023.07.07-15.44.26:351][845]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Metal_Rack2)
+[2023.07.07-15.44.27:163][908]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2023.07.07-15.44.27:289][908]LogSavePackage: Moving '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Saved/FirstPersonExampleMap7C520CC44BCD6912F5647A83482EA38F.tmp' to '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2023.07.07-15.44.27:408][908]LogSavePackage: Moving '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Saved/FirstPersonExampleMap_BuiltDataDD7CCD174B86CFDEF9EF26B85CED87BF.tmp' to '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2023.07.07-15.44.27:420][908]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.07-15.44.27:420][908]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2023.07.07-15.44.27:420][908]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2023.07.07-15.44.30:758][134]LogActorFactory: Actor Factory created SM_Crate_Closed
+[2023.07.07-15.44.31:620][205]LogActorFactory: Actor Factory created SM_Crate_Closed
+[2023.07.07-15.44.32:814][312]Cmd: EDIT COPY
+[2023.07.07-15.44.33:000][328]Cmd: EDIT PASTE
+[2023.07.07-15.44.33:913][421]Cmd: EDIT COPY
+[2023.07.07-15.44.34:111][443]Cmd: EDIT PASTE
+[2023.07.07-15.44.37:360][750]Cmd: EDIT COPY
+[2023.07.07-15.44.37:553][770]Cmd: EDIT PASTE
+[2023.07.07-15.44.41:369][117]LogActorFactory: Actor Factory created SM_Crate_Open
+[2023.07.07-15.44.42:283][203]LogActorFactory: Actor Factory created SM_Crate_Open
+[2023.07.07-15.44.43:863][354]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2023.07.07-15.44.43:991][354]LogSavePackage: Moving '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Saved/FirstPersonExampleMapCF235210438453ADF2ADEAAD0FCBE5FB.tmp' to '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2023.07.07-15.44.44:108][354]LogSavePackage: Moving '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Saved/FirstPersonExampleMap_BuiltDataBBD4500440BFB6EB0BB313B015732A01.tmp' to '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2023.07.07-15.44.44:121][354]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.07-15.44.44:121][354]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2023.07.07-15.44.44:121][354]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2023.07.07-15.44.52:012][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.07.07-15.44.52:137][ 81]LogSavePackage: Moving '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Saved/FirstPersonExampleMap5FA869CE41D8453BB5CE2982D49FF78B.tmp' to '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2023.07.07-15.44.52:257][ 81]LogSavePackage: Moving '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Saved/FirstPersonExampleMap_BuiltDataC488ECB746A19B2E2B55D0A5DAEFF2CD.tmp' to '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2023.07.07-15.44.52:270][ 81]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.07-15.44.52:270][ 81]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2023.07.07-15.44.52:270][ 81]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2023.07.07-15.45.08:049][560]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wooden_Pallette)
+[2023.07.07-15.45.09:759][720]Cmd: EDIT COPY
+[2023.07.07-15.45.09:919][730]Cmd: EDIT PASTE
+[2023.07.07-15.45.20:960][866]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallBrick46)
+[2023.07.07-15.45.22:430][ 20]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallBrick70)
+[2023.07.07-15.45.26:232][396]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FloorConcrete60)
+[2023.07.07-15.45.26:588][422]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Metal_Rack2)
+[2023.07.07-15.45.37:573][465]Cmd: EDIT COPY
+[2023.07.07-15.45.37:767][478]Cmd: EDIT PASTE
+[2023.07.07-15.45.40:926][766]Cmd: EDIT COPY
+[2023.07.07-15.45.41:120][781]Cmd: EDIT PASTE
+[2023.07.07-15.45.46:323][298]Cmd: EDIT COPY
+[2023.07.07-15.45.46:492][309]Cmd: EDIT PASTE
+[2023.07.07-15.45.49:319][583]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cardboard_Box39)
+[2023.07.07-15.45.50:005][654]Cmd: DELETE
+[2023.07.07-15.45.50:005][654]Cmd: ACTOR DELETE
+[2023.07.07-15.45.50:016][654]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.07.07-15.45.50:045][654]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2023.07.07-15.45.50:047][654]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2023.07.07-15.45.50:867][751]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cardboard_Box40)
+[2023.07.07-15.45.51:286][792]Cmd: DELETE
+[2023.07.07-15.45.51:286][792]Cmd: ACTOR DELETE
+[2023.07.07-15.45.51:297][792]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.07.07-15.45.51:322][792]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.07.07-15.45.51:323][792]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2023.07.07-15.45.52:075][881]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cardboard_Box41)
+[2023.07.07-15.45.56:424][328]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cardboard_Box33)
+[2023.07.07-15.45.58:465][526]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cardboard_Box34)
+[2023.07.07-15.45.59:256][610]Cmd: DELETE
+[2023.07.07-15.45.59:256][610]Cmd: ACTOR DELETE
+[2023.07.07-15.45.59:267][610]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.07.07-15.45.59:292][610]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.07.07-15.45.59:294][610]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2023.07.07-15.46.00:207][719]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cardboard_Box35)
+[2023.07.07-15.46.04:333][170]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cardboard_Box38)
+[2023.07.07-15.46.05:772][326]Cmd: DELETE
+[2023.07.07-15.46.05:772][326]Cmd: ACTOR DELETE
+[2023.07.07-15.46.05:783][326]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.07.07-15.46.05:809][326]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.07.07-15.46.05:810][326]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2023.07.07-15.46.06:006][349]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cardboard_Box37)
+[2023.07.07-15.46.06:074][352]Cmd: DELETE
+[2023.07.07-15.46.06:074][352]Cmd: ACTOR DELETE
+[2023.07.07-15.46.06:085][352]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.07.07-15.46.06:110][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.07.07-15.46.06:111][352]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2023.07.07-15.46.06:327][377]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cardboard_Box36)
+[2023.07.07-15.46.06:377][378]Cmd: DELETE
+[2023.07.07-15.46.06:377][378]Cmd: ACTOR DELETE
+[2023.07.07-15.46.06:388][378]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.07.07-15.46.06:412][378]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.07.07-15.46.06:413][378]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2023.07.07-15.46.07:495][492]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.07.07-15.46.07:626][492]LogSavePackage: Moving '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Saved/FirstPersonExampleMap7D9EDC69492737DD04E24F9131D52AED.tmp' to '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2023.07.07-15.46.07:747][492]LogSavePackage: Moving '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Saved/FirstPersonExampleMap_BuiltData4E69012D42FB4593F775C4965FD01B18.tmp' to '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2023.07.07-15.46.07:760][492]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.07-15.46.07:760][492]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2023.07.07-15.46.07:760][492]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2023.07.07-15.46.17:055][562]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Metal_Rack5)
+[2023.07.07-15.46.17:314][578]Cmd: EDIT COPY
+[2023.07.07-15.46.17:505][596]Cmd: EDIT PASTE
+[2023.07.07-15.46.29:096][796]Cmd: EDIT COPY
+[2023.07.07-15.46.29:292][817]Cmd: EDIT PASTE
+[2023.07.07-15.46.31:045][  0]Cmd: EDIT COPY
+[2023.07.07-15.46.31:221][ 19]Cmd: EDIT PASTE
+[2023.07.07-15.46.34:178][326]Cmd: EDIT COPY
+[2023.07.07-15.46.34:347][344]Cmd: EDIT PASTE
+[2023.07.07-15.46.38:111][727]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Metal_Rack11)
+[2023.07.07-15.46.38:878][794]Cmd: EDIT COPY
+[2023.07.07-15.46.39:066][814]Cmd: EDIT PASTE
+[2023.07.07-15.46.41:297][ 50]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallBrick52)
+[2023.07.07-15.46.43:999][324]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2023.07.07-15.46.44:134][324]LogSavePackage: Moving '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Saved/FirstPersonExampleMapBD24905042EA2C98E019BF966E194A1E.tmp' to '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2023.07.07-15.46.44:250][324]LogSavePackage: Moving '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Saved/FirstPersonExampleMap_BuiltData9692A9C9443E8D50432EA3854AADB2E8.tmp' to '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2023.07.07-15.46.44:262][324]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.07-15.46.44:262][324]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2023.07.07-15.46.44:262][324]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2023.07.07-15.46.54:979][458]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.07.07-15.46.55:115][458]LogSavePackage: Moving '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Saved/FirstPersonExampleMap80FC430E4A2D13F48FC2C19BC458CBCB.tmp' to '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2023.07.07-15.46.55:242][458]LogSavePackage: Moving '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Saved/FirstPersonExampleMap_BuiltDataBF4D5B8440329DA2FCBE239F236B0147.tmp' to '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2023.07.07-15.46.55:254][458]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.07-15.46.55:255][458]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2023.07.07-15.46.55:255][458]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2023.07.07-15.48.35:529][758]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.07.07-15.48.35:558][758]LogContentBrowser: Creating deferred item: NewFolder
+[2023.07.07-15.48.37:805][ 28]LogContentBrowser: Attempting asset rename: NewFolder -> Enemy
+[2023.07.07-15.48.37:806][ 28]LogContentBrowser: End creating deferred item NewFolder
+[2023.07.07-15.48.39:506][209]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.07.07-15.48.39:526][209]LogContentBrowser: Creating deferred item: NewFolder
+[2023.07.07-15.48.42:925][617]LogContentBrowser: Attempting asset rename: NewFolder -> Mannequin
+[2023.07.07-15.48.42:925][617]LogContentBrowser: End creating deferred item NewFolder
+[2023.07.07-15.48.44:505][772]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.07.07-15.48.44:526][772]LogContentBrowser: Creating deferred item: NewFolder
+[2023.07.07-15.48.46:322][988]LogContentBrowser: Attempting asset rename: NewFolder -> Entity
+[2023.07.07-15.48.46:323][988]LogContentBrowser: End creating deferred item NewFolder
+[2023.07.07-15.48.48:418][207]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.07.07-15.48.48:554][207]LogSavePackage: Moving '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Saved/FirstPersonExampleMap186B073B47A4EF10CD88B6A30C0E7835.tmp' to '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2023.07.07-15.48.48:680][207]LogSavePackage: Moving '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Saved/FirstPersonExampleMap_BuiltData3205C81E481322ADDDF98AB7F7051430.tmp' to '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2023.07.07-15.48.48:693][207]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.07-15.48.48:693][207]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2023.07.07-15.48.48:693][207]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2023.07.07-15.50.35:525][918]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\RayanEreteo\Downloads\Ch36_nonPBR.fbx)
+[2023.07.07-15.50.35:774][918]LogFbx: Loading FBX Scene from C:\Users\RayanEreteo\Downloads\Ch36_nonPBR.fbx
+[2023.07.07-15.50.35:990][918]LogFbx: FBX Scene Loaded Succesfully
+[2023.07.07-15.50.42:683][918]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.07.07-15.50.42:765][918]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node Ch36 : The relative matrices do not match
+[2023.07.07-15.50.42:765][918]LogFbx: Warning: Getting valid bind pose failed. Try to recreate bind pose
+[2023.07.07-15.50.42:766][918]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - Ch36
+[2023.07.07-15.50.42:766][918]LogFbx: Warning: Recreating bind pose succeeded.
+[2023.07.07-15.50.42:773][918]LogMaterial: Display: Material /Game/MesDossiers/3DModel/Enemy/Mannequin/Ch36_Body.Ch36_Body needed to have new flag set bUsedWithSkeletalMesh !
+[2023.07.07-15.50.42:774][918]LogMaterial: Display: Missing cached shadermap for Ch36_Body in PCD3D_SM5, Default, SM5 (DDC key hash: 7B44D9936D818E8D74751B2518C7590936CD70B8), compiling. 
+[2023.07.07-15.50.42:830][918]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2023.07.07-15.50.43:295][918]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 32
+[2023.07.07-15.50.43:295][918]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 27
+[2023.07.07-15.50.43:295][918]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 22
+[2023.07.07-15.50.43:295][918]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 17
+[2023.07.07-15.50.43:295][918]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 12
+[2023.07.07-15.50.43:295][918]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 7
+[2023.07.07-15.50.43:295][918]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2023.07.07-15.50.43:295][918]LogShaderCompilers: Display: Started 32 'Local' shader compile jobs with 'Low' priority
+[2023.07.07-15.50.43:295][918]LogTexture: Display: Building textures: Ch36_1001_Diffuse (OODLE_AutoDXT, 4096X4096)
+[2023.07.07-15.50.44:317][918]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.07.07-15.50.44:317][918]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.07.07-15.50.44:317][918]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.07.07-15.50.44:865][918]LogTexture: Display: Building textures: Ch36_1001_Specular (OODLE_AutoDXT, 4096X4096)
+[2023.07.07-15.50.45:811][918]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.07.07-15.50.45:811][918]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.07.07-15.50.45:811][918]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.07.07-15.50.46:019][918]LogTexture: Display: Building textures: Ch36_1001_Glossiness (OODLE_AutoDXT, 4096X4096)
+[2023.07.07-15.50.47:664][918]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.07.07-15.50.47:664][918]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.07.07-15.50.47:664][918]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.07.07-15.50.48:134][918]LogTexture: Display: Building textures: Ch36_1001_Normal (OODLE_BC5, 4096X4096)
+[2023.07.07-15.50.48:627][918]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.07.07-15.50.48:627][918]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.07.07-15.50.48:627][918]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.07.07-15.50.48:684][918]LogMaterial: Display: Missing cached shadermap for Ch36_Body in PCD3D_SM5, Default, SM5 (DDC key hash: FD33AC2D2689B287F3B4AB7C9E95BB35E0229AB8), compiling. 
+[2023.07.07-15.50.48:689][918]LogFbx: Triangulating skeletal mesh Ch36
+[2023.07.07-15.50.49:371][918]LogFbx: Warning: Bones digested - 65  Depth of hierarchy - 12
+[2023.07.07-15.50.50:152][918]LogSkeletalMesh: Section 0: Material=0, 28880 triangles
+[2023.07.07-15.50.50:255][918]LogSkeletalMesh: Building Skeletal Mesh Ch36_nonPBR...
+[2023.07.07-15.50.50:978][918]LogSkeletalMesh: Section 0: Material=0, 28880 triangles
+[2023.07.07-15.50.51:033][918]LogSkeletalMesh: Built Skeletal Mesh [0.79s] /Game/MesDossiers/3DModel/Enemy/Mannequin/Ch36_nonPBR.Ch36_nonPBR
+[2023.07.07-15.50.51:072][918]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.07.07-15.50.51:072][918]LogShaderCompilers: Display: Total job queries 32, among them cache hits 0 (0.00%)
+[2023.07.07-15.50.51:072][918]LogShaderCompilers: Display: Tracking 32 distinct input hashes that result in 23 distinct outputs (71.88%)
+[2023.07.07-15.50.51:072][918]LogShaderCompilers: Display: RAM used: 0.13 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.02%
+[2023.07.07-15.50.51:072][918]LogShaderCompilers: Display: ================================================
+[2023.07.07-15.50.51:074][918]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.07.07-15.50.51:074][918]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.07-15.50.51:161][918]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.07.07-15.50.51:161][918]FBXImport: Warning: The following bones are missing from the bind pose:
+mixamorig1:HeadTop_End  
+mixamorig1:LeftHandThumb4  
+mixamorig1:LeftHandIndex4  
+mixamorig1:LeftHandMiddle4  
+mixamorig1:LeftHandRing4  
+mixamorig1:LeftHandPinky4  
+mixamorig1:RightHandThumb4  
+mixamorig1:RightHandIndex4  
+mixamorig1:RightHandMiddle4  
+mixamorig1:RightHandRing4  
+mixamorig1:RightHandPinky4  
+mixamorig1:LeftToe_End  
+mixamorig1:RightToe_End  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2023.07.07-15.50.51:373][918]LogSlate: Took 0.044045 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.07.07-15.50.51:436][922]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.07.07-15.50.51:443][922]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.07.07-15.50.51:443][922]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.07.07-15.50.51:443][922]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.07.07-15.50.51:495][925]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.07.07-15.50.51:495][925]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2023.07.07-15.50.51:495][925]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2023.07.07-15.50.51:495][925]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.07.07-15.50.51:515][925]LogShaderCompilers: Display: Submitted 28 shader compile jobs with 'Normal' priority
+[2023.07.07-15.50.51:515][925]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 28
+[2023.07.07-15.50.51:515][925]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 24
+[2023.07.07-15.50.51:515][925]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 20
+[2023.07.07-15.50.51:515][925]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 16
+[2023.07.07-15.50.51:515][925]LogShaderCompilers: Display: Started 16 'Local' shader compile jobs with 'Normal' priority
+[2023.07.07-15.50.52:234][952]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 12
+[2023.07.07-15.50.52:234][952]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.07.07-15.50.52:348][955]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 10
+[2023.07.07-15.50.52:348][955]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.07.07-15.50.52:414][958]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2023.07.07-15.50.52:414][958]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.07.07-15.50.52:647][970]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 6
+[2023.07.07-15.50.52:647][970]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.07.07-15.50.53:316][996]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2023.07.07-15.50.53:316][996]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.07.07-15.50.53:612][ 10]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2023.07.07-15.50.53:612][ 10]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.07.07-15.50.53:743][ 15]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2023.07.07-15.50.53:743][ 15]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.07.07-15.50.54:161][ 33]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.07.07-15.50.54:161][ 33]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.07.07-15.50.54:238][ 37]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2023.07.07-15.50.54:238][ 37]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.07.07-15.50.54:850][ 72]LogSlate: Window 'Message Log' being destroyed
+[2023.07.07-15.50.54:857][ 72]LogSlate: Window 'Message Log' being destroyed
+[2023.07.07-15.50.56:559][240]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2023.07.07-15.50.56:697][240]LogSavePackage: Moving '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Saved/FirstPersonExampleMap6D798DB547D14406BF9DDF9232554EB9.tmp' to '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2023.07.07-15.50.56:815][240]LogSavePackage: Moving '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Saved/FirstPersonExampleMap_BuiltData5F9780E148C926865EAEE9A476D9BE14.tmp' to '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2023.07.07-15.50.56:828][240]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.07-15.50.56:828][240]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2023.07.07-15.50.56:828][240]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2023.07.07-15.51.10:113][704]LogTemp: Repeating last play command: Selected Viewport
+[2023.07.07-15.51.10:120][704]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.07-15.51.10:120][704]PIE: New page: PIE session: FirstPersonExampleMap (7 juil. 2023 à 19:51:10)
+[2023.07.07-15.51.10:140][704]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.07.07-15.51.10:167][704]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027178s)
+[2023.07.07-15.51.10:168][704]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2023.07.07-15.51.10:168][704]LogPlayLevel: PIE: World Init took: (0.001128s)
+[2023.07.07-15.51.10:168][704]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.028509s)
+[2023.07.07-15.51.10:197][704]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2023.07.07-15.51.10:199][704]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2023.07.07-15.51.10:200][704]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.07-15.51.10:200][704]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.07-15.51.10:200][704]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.07-15.51.10:200][704]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.07-15.51.10:200][704]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.07.07-15.51.10:200][704]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.07.07-15.51.10:200][704]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.07.07-15.51.10:200][704]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.07-15.51.10:200][704]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.07-15.51.10:200][704]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.07-15.51.10:200][704]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.07-15.51.10:200][704]LogAudioMixer: Display: Initializing audio mixer.
+[2023.07.07-15.51.10:203][704]LogAudioMixer: Display: 0: FrontLeft
+[2023.07.07-15.51.10:203][704]LogAudioMixer: Display: 1: FrontRight
+[2023.07.07-15.51.10:217][704]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2023.07.07-15.51.10:217][704]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.07-15.51.10:217][704]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.07-15.51.10:217][704]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.07-15.51.10:218][704]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.07.07-15.51.10:218][704]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.07.07-15.51.10:218][704]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.07.07-15.51.10:219][704]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.07.07-15.51.10:219][704]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.07.07-15.51.10:219][704]LogInit: FAudioDevice initialized.
+[2023.07.07-15.51.10:219][704]LogAudio: Display: Audio Device (ID: 32) registered with world 'FirstPersonExampleMap'.
+[2023.07.07-15.51.10:227][704]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.07.07-15.51.10:237][704]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2023.07.07-17.51.10
+[2023.07.07-15.51.10:237][704]LogWorld: Bringing up level for play took: 0.009800
+[2023.07.07-15.51.10:237][704]LogOnline: OSS: Creating online subsystem instance for: :Context_41
+[2023.07.07-15.51.10:240][704]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.07.07-15.51.10:241][704]PIE: Server logged in
+[2023.07.07-15.51.10:242][704]PIE: Play in editor total start time 0,123 seconds.
+[2023.07.07-15.51.10:942][786]Cmd: LevelEditor.ToggleImmersive
+[2023.07.07-15.51.15:211][112]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.07-15.51.15:211][112]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.07.07-15.51.15:211][112]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.07.07-15.51.15:213][112]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.07-15.51.15:242][112]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.07-15.51.15:266][112]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.07-15.51.15:291][112]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.07-15.51.15:291][112]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.07.07-15.51.15:292][112]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.07.07-15.51.15:295][112]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.07-15.51.15:302][112]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2023.07.07-15.51.15:328][113]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2023.07.07-15.51.23:343][962]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.07.07-15.51.23:381][962]LogContentBrowser: Creating deferred item: NewFolder
+[2023.07.07-15.51.26:598][347]LogContentBrowser: Attempting asset rename: NewFolder -> Animations
+[2023.07.07-15.51.26:598][347]LogContentBrowser: End creating deferred item NewFolder
+[2023.07.07-15.53.35:814][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2023.07.07-15.53.35:952][ 61]LogSavePackage: Moving '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Saved/FirstPersonExampleMap2CB601FF47FF981FF0BDA0ACFA080725.tmp' to '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2023.07.07-15.53.35:970][ 61]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.190
+[2023.07.07-15.53.35:983][ 61]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2023.07.07-15.53.35:983][ 61]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2023.07.07-15.53.48:568][ 17]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\RayanEreteo\Downloads\Male Dance Pose.fbx)
+[2023.07.07-15.53.48:577][ 17]LogFbx: Loading FBX Scene from C:\Users\RayanEreteo\Downloads\Male Dance Pose.fbx
+[2023.07.07-15.53.48:606][ 17]LogFbx: FBX Scene Loaded Succesfully
+[2023.07.07-15.53.50:918][ 17]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.07.07-15.53.50:936][ 17]LogFbx: SortedLinks :(0) Hips
+[2023.07.07-15.53.50:936][ 17]LogFbx: SortedLinks :(1) Spine
+[2023.07.07-15.53.50:936][ 17]LogFbx: SortedLinks :(2) Spine1
+[2023.07.07-15.53.50:936][ 17]LogFbx: SortedLinks :(3) Spine2
+[2023.07.07-15.53.50:936][ 17]LogFbx: SortedLinks :(4) Neck
+[2023.07.07-15.53.50:936][ 17]LogFbx: SortedLinks :(5) Head
+[2023.07.07-15.53.50:936][ 17]LogFbx: SortedLinks :(6) HeadTop_End
+[2023.07.07-15.53.50:936][ 17]LogFbx: SortedLinks :(7) LeftShoulder
+[2023.07.07-15.53.50:936][ 17]LogFbx: SortedLinks :(8) LeftArm
+[2023.07.07-15.53.50:936][ 17]LogFbx: SortedLinks :(9) LeftForeArm
+[2023.07.07-15.53.50:936][ 17]LogFbx: SortedLinks :(10) LeftHand
+[2023.07.07-15.53.50:936][ 17]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2023.07.07-15.53.50:936][ 17]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2023.07.07-15.53.50:936][ 17]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2023.07.07-15.53.50:936][ 17]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2023.07.07-15.53.50:936][ 17]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2023.07.07-15.53.50:936][ 17]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2023.07.07-15.53.50:937][ 17]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2023.07.07-15.53.50:937][ 17]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2023.07.07-15.53.50:937][ 17]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2023.07.07-15.53.50:937][ 17]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2023.07.07-15.53.50:937][ 17]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2023.07.07-15.53.50:937][ 17]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2023.07.07-15.53.50:937][ 17]LogFbx: SortedLinks :(23) LeftHandRing1
+[2023.07.07-15.53.50:937][ 17]LogFbx: SortedLinks :(24) LeftHandRing2
+[2023.07.07-15.53.50:937][ 17]LogFbx: SortedLinks :(25) LeftHandRing3
+[2023.07.07-15.53.50:937][ 17]LogFbx: SortedLinks :(26) LeftHandRing4
+[2023.07.07-15.53.50:937][ 17]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2023.07.07-15.53.50:937][ 17]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2023.07.07-15.53.50:937][ 17]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2023.07.07-15.53.50:937][ 17]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2023.07.07-15.53.50:937][ 17]LogFbx: SortedLinks :(31) RightShoulder
+[2023.07.07-15.53.50:937][ 17]LogFbx: SortedLinks :(32) RightArm
+[2023.07.07-15.53.50:937][ 17]LogFbx: SortedLinks :(33) RightForeArm
+[2023.07.07-15.53.50:937][ 17]LogFbx: SortedLinks :(34) RightHand
+[2023.07.07-15.53.50:937][ 17]LogFbx: SortedLinks :(35) RightHandThumb1
+[2023.07.07-15.53.50:937][ 17]LogFbx: SortedLinks :(36) RightHandThumb2
+[2023.07.07-15.53.50:937][ 17]LogFbx: SortedLinks :(37) RightHandThumb3
+[2023.07.07-15.53.50:937][ 17]LogFbx: SortedLinks :(38) RightHandThumb4
+[2023.07.07-15.53.50:937][ 17]LogFbx: SortedLinks :(39) RightHandIndex1
+[2023.07.07-15.53.50:937][ 17]LogFbx: SortedLinks :(40) RightHandIndex2
+[2023.07.07-15.53.50:937][ 17]LogFbx: SortedLinks :(41) RightHandIndex3
+[2023.07.07-15.53.50:937][ 17]LogFbx: SortedLinks :(42) RightHandIndex4
+[2023.07.07-15.53.50:937][ 17]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2023.07.07-15.53.50:937][ 17]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2023.07.07-15.53.50:937][ 17]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2023.07.07-15.53.50:937][ 17]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2023.07.07-15.53.50:937][ 17]LogFbx: SortedLinks :(47) RightHandRing1
+[2023.07.07-15.53.50:937][ 17]LogFbx: SortedLinks :(48) RightHandRing2
+[2023.07.07-15.53.50:937][ 17]LogFbx: SortedLinks :(49) RightHandRing3
+[2023.07.07-15.53.50:937][ 17]LogFbx: SortedLinks :(50) RightHandRing4
+[2023.07.07-15.53.50:937][ 17]LogFbx: SortedLinks :(51) RightHandPinky1
+[2023.07.07-15.53.50:937][ 17]LogFbx: SortedLinks :(52) RightHandPinky2
+[2023.07.07-15.53.50:937][ 17]LogFbx: SortedLinks :(53) RightHandPinky3
+[2023.07.07-15.53.50:937][ 17]LogFbx: SortedLinks :(54) RightHandPinky4
+[2023.07.07-15.53.50:937][ 17]LogFbx: SortedLinks :(55) LeftUpLeg
+[2023.07.07-15.53.50:937][ 17]LogFbx: SortedLinks :(56) LeftLeg
+[2023.07.07-15.53.50:937][ 17]LogFbx: SortedLinks :(57) LeftFoot
+[2023.07.07-15.53.50:937][ 17]LogFbx: SortedLinks :(58) LeftToeBase
+[2023.07.07-15.53.50:937][ 17]LogFbx: SortedLinks :(59) LeftToe_End
+[2023.07.07-15.53.50:937][ 17]LogFbx: SortedLinks :(60) RightUpLeg
+[2023.07.07-15.53.50:937][ 17]LogFbx: SortedLinks :(61) RightLeg
+[2023.07.07-15.53.50:937][ 17]LogFbx: SortedLinks :(62) RightFoot
+[2023.07.07-15.53.50:937][ 17]LogFbx: SortedLinks :(63) RightToeBase
+[2023.07.07-15.53.50:937][ 17]LogFbx: SortedLinks :(64) RightToe_End
+[2023.07.07-15.53.50:938][ 17]LogFbx: Parsing AnimStack mixamo.com
+[2023.07.07-15.53.51:014][ 17]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MesDossiers/3DModel/Enemy/Mannequin/Animations/Male_Dance_Pose.Male_Dance_Pose
+[2023.07.07-15.53.51:014][ 17]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MesDossiers/3DModel/Enemy/Mannequin/Animations/Male_Dance_Pose.Male_Dance_Pose
+[2023.07.07-15.53.57:172][645]LogTemp: Repeating last play command: Selected Viewport
+[2023.07.07-15.53.57:179][645]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.07-15.53.57:179][645]PIE: New page: PIE session: FirstPersonExampleMap (7 juil. 2023 à 19:53:57)
+[2023.07.07-15.53.57:210][645]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.07.07-15.53.57:238][645]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027228s)
+[2023.07.07-15.53.57:239][645]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2023.07.07-15.53.57:239][645]LogPlayLevel: PIE: World Init took: (0.001164s)
+[2023.07.07-15.53.57:239][645]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.028612s)
+[2023.07.07-15.53.57:268][645]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2023.07.07-15.53.57:270][645]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2023.07.07-15.53.57:270][645]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.07-15.53.57:270][645]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.07-15.53.57:270][645]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.07-15.53.57:271][645]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.07-15.53.57:271][645]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.07.07-15.53.57:271][645]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.07.07-15.53.57:271][645]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.07.07-15.53.57:271][645]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.07-15.53.57:271][645]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.07-15.53.57:271][645]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.07-15.53.57:271][645]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.07-15.53.57:271][645]LogAudioMixer: Display: Initializing audio mixer.
+[2023.07.07-15.53.57:274][645]LogAudioMixer: Display: 0: FrontLeft
+[2023.07.07-15.53.57:274][645]LogAudioMixer: Display: 1: FrontRight
+[2023.07.07-15.53.57:288][645]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2023.07.07-15.53.57:288][645]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.07-15.53.57:288][645]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.07-15.53.57:288][645]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.07-15.53.57:289][645]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.07.07-15.53.57:289][645]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.07.07-15.53.57:289][645]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.07.07-15.53.57:290][645]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.07.07-15.53.57:290][645]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.07.07-15.53.57:290][645]LogInit: FAudioDevice initialized.
+[2023.07.07-15.53.57:290][645]LogAudio: Display: Audio Device (ID: 33) registered with world 'FirstPersonExampleMap'.
+[2023.07.07-15.53.57:303][645]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.07.07-15.53.57:314][645]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2023.07.07-17.53.57
+[2023.07.07-15.53.57:315][645]LogWorld: Bringing up level for play took: 0.010691
+[2023.07.07-15.53.57:315][645]LogOnline: OSS: Creating online subsystem instance for: :Context_43
+[2023.07.07-15.53.57:317][645]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.07.07-15.53.57:317][645]PIE: Server logged in
+[2023.07.07-15.53.57:318][645]PIE: Play in editor total start time 0,141 seconds.
+[2023.07.07-15.53.58:120][739]Cmd: LevelEditor.ToggleImmersive
+[2023.07.07-15.54.17:091][271]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.07-15.54.17:091][271]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.07.07-15.54.17:091][271]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.07.07-15.54.17:093][271]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.07-15.54.17:124][271]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.07-15.54.17:149][271]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.07-15.54.17:177][271]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.07-15.54.17:177][271]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.07.07-15.54.17:179][271]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.07.07-15.54.17:182][271]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.07-15.54.17:189][271]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2023.07.07-15.54.17:216][272]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2023.07.07-15.54.35:422][190]Cmd: MODE ROTGRID=0
+[2023.07.07-15.54.41:837][903]Cmd: MODE ROTGRID=1
+[2023.07.07-15.54.43:289][ 57]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crate_Open)
+[2023.07.07-15.54.45:994][355]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Ch36_nonPBR2)
+[2023.07.07-15.54.52:204][ 55]Cmd: MODE ROTGRID=0
+[2023.07.07-15.55.01:581][106]Cmd: MODE ROTGRID=1
+[2023.07.07-15.55.10:849][155]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2023.07.07-15.55.10:987][155]LogSavePackage: Moving '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Saved/FirstPersonExampleMap4591B819478616C3F49D3A8D00AD0397.tmp' to '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2023.07.07-15.55.11:105][155]LogSavePackage: Moving '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Saved/FirstPersonExampleMap_BuiltDataAE00BD824397AAB29218F98725041A54.tmp' to '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2023.07.07-15.55.11:120][155]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.07-15.55.11:120][155]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2023.07.07-15.55.11:120][155]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2023.07.07-15.55.31:748][551]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\RayanEreteo\Downloads\Female Dance Pose.fbx)
+[2023.07.07-15.55.31:757][551]LogFbx: Loading FBX Scene from C:\Users\RayanEreteo\Downloads\Female Dance Pose.fbx
+[2023.07.07-15.55.31:784][551]LogFbx: FBX Scene Loaded Succesfully
+[2023.07.07-15.55.34:173][551]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.07.07-15.55.34:187][551]LogFbx: SortedLinks :(0) Hips
+[2023.07.07-15.55.34:187][551]LogFbx: SortedLinks :(1) Spine
+[2023.07.07-15.55.34:187][551]LogFbx: SortedLinks :(2) Spine1
+[2023.07.07-15.55.34:187][551]LogFbx: SortedLinks :(3) Spine2
+[2023.07.07-15.55.34:187][551]LogFbx: SortedLinks :(4) Neck
+[2023.07.07-15.55.34:187][551]LogFbx: SortedLinks :(5) Head
+[2023.07.07-15.55.34:187][551]LogFbx: SortedLinks :(6) HeadTop_End
+[2023.07.07-15.55.34:187][551]LogFbx: SortedLinks :(7) LeftShoulder
+[2023.07.07-15.55.34:187][551]LogFbx: SortedLinks :(8) LeftArm
+[2023.07.07-15.55.34:187][551]LogFbx: SortedLinks :(9) LeftForeArm
+[2023.07.07-15.55.34:188][551]LogFbx: SortedLinks :(10) LeftHand
+[2023.07.07-15.55.34:188][551]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2023.07.07-15.55.34:188][551]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2023.07.07-15.55.34:188][551]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2023.07.07-15.55.34:188][551]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2023.07.07-15.55.34:188][551]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2023.07.07-15.55.34:188][551]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2023.07.07-15.55.34:188][551]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2023.07.07-15.55.34:188][551]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2023.07.07-15.55.34:188][551]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2023.07.07-15.55.34:188][551]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2023.07.07-15.55.34:188][551]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2023.07.07-15.55.34:188][551]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2023.07.07-15.55.34:188][551]LogFbx: SortedLinks :(23) LeftHandRing1
+[2023.07.07-15.55.34:188][551]LogFbx: SortedLinks :(24) LeftHandRing2
+[2023.07.07-15.55.34:188][551]LogFbx: SortedLinks :(25) LeftHandRing3
+[2023.07.07-15.55.34:188][551]LogFbx: SortedLinks :(26) LeftHandRing4
+[2023.07.07-15.55.34:188][551]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2023.07.07-15.55.34:188][551]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2023.07.07-15.55.34:188][551]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2023.07.07-15.55.34:188][551]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2023.07.07-15.55.34:188][551]LogFbx: SortedLinks :(31) RightShoulder
+[2023.07.07-15.55.34:188][551]LogFbx: SortedLinks :(32) RightArm
+[2023.07.07-15.55.34:188][551]LogFbx: SortedLinks :(33) RightForeArm
+[2023.07.07-15.55.34:188][551]LogFbx: SortedLinks :(34) RightHand
+[2023.07.07-15.55.34:188][551]LogFbx: SortedLinks :(35) RightHandThumb1
+[2023.07.07-15.55.34:188][551]LogFbx: SortedLinks :(36) RightHandThumb2
+[2023.07.07-15.55.34:188][551]LogFbx: SortedLinks :(37) RightHandThumb3
+[2023.07.07-15.55.34:188][551]LogFbx: SortedLinks :(38) RightHandThumb4
+[2023.07.07-15.55.34:188][551]LogFbx: SortedLinks :(39) RightHandIndex1
+[2023.07.07-15.55.34:188][551]LogFbx: SortedLinks :(40) RightHandIndex2
+[2023.07.07-15.55.34:188][551]LogFbx: SortedLinks :(41) RightHandIndex3
+[2023.07.07-15.55.34:188][551]LogFbx: SortedLinks :(42) RightHandIndex4
+[2023.07.07-15.55.34:188][551]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2023.07.07-15.55.34:188][551]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2023.07.07-15.55.34:188][551]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2023.07.07-15.55.34:188][551]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2023.07.07-15.55.34:188][551]LogFbx: SortedLinks :(47) RightHandRing1
+[2023.07.07-15.55.34:188][551]LogFbx: SortedLinks :(48) RightHandRing2
+[2023.07.07-15.55.34:188][551]LogFbx: SortedLinks :(49) RightHandRing3
+[2023.07.07-15.55.34:188][551]LogFbx: SortedLinks :(50) RightHandRing4
+[2023.07.07-15.55.34:188][551]LogFbx: SortedLinks :(51) RightHandPinky1
+[2023.07.07-15.55.34:188][551]LogFbx: SortedLinks :(52) RightHandPinky2
+[2023.07.07-15.55.34:188][551]LogFbx: SortedLinks :(53) RightHandPinky3
+[2023.07.07-15.55.34:188][551]LogFbx: SortedLinks :(54) RightHandPinky4
+[2023.07.07-15.55.34:188][551]LogFbx: SortedLinks :(55) LeftUpLeg
+[2023.07.07-15.55.34:188][551]LogFbx: SortedLinks :(56) LeftLeg
+[2023.07.07-15.55.34:188][551]LogFbx: SortedLinks :(57) LeftFoot
+[2023.07.07-15.55.34:188][551]LogFbx: SortedLinks :(58) LeftToeBase
+[2023.07.07-15.55.34:188][551]LogFbx: SortedLinks :(59) LeftToe_End
+[2023.07.07-15.55.34:188][551]LogFbx: SortedLinks :(60) RightUpLeg
+[2023.07.07-15.55.34:188][551]LogFbx: SortedLinks :(61) RightLeg
+[2023.07.07-15.55.34:188][551]LogFbx: SortedLinks :(62) RightFoot
+[2023.07.07-15.55.34:188][551]LogFbx: SortedLinks :(63) RightToeBase
+[2023.07.07-15.55.34:188][551]LogFbx: SortedLinks :(64) RightToe_End
+[2023.07.07-15.55.34:189][551]LogFbx: Parsing AnimStack mixamo.com
+[2023.07.07-15.55.34:254][551]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MesDossiers/3DModel/Enemy/Mannequin/Animations/Female_Dance_Pose.Female_Dance_Pose
+[2023.07.07-15.55.34:254][551]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MesDossiers/3DModel/Enemy/Mannequin/Animations/Female_Dance_Pose.Female_Dance_Pose
+[2023.07.07-15.55.36:510][781]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Ch36_nonPBR)
+[2023.07.07-15.55.36:784][797]Cmd: EDIT COPY
+[2023.07.07-15.55.36:992][812]Cmd: EDIT PASTE
+[2023.07.07-15.55.48:729][986]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2023.07.07-15.55.48:875][986]LogSavePackage: Moving '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Saved/FirstPersonExampleMap0E2568834D57968DEFD7A7A96C4D1512.tmp' to '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2023.07.07-15.55.49:005][986]LogSavePackage: Moving '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Saved/FirstPersonExampleMap_BuiltData031730C4474D41F50378AE8E0421D4BD.tmp' to '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2023.07.07-15.55.49:017][986]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.07-15.55.49:017][986]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2023.07.07-15.55.49:018][986]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2023.07.07-15.55.50:009][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2023.07.07-15.55.50:153][ 63]LogSavePackage: Moving '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Saved/FirstPersonExampleMapFA30DA704DD30B342FDFA39DDC09A2E0.tmp' to '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2023.07.07-15.55.50:272][ 63]LogSavePackage: Moving '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Saved/FirstPersonExampleMap_BuiltDataECAEA5B645C6553D2855F9B67E48ACE7.tmp' to '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2023.07.07-15.55.50:285][ 63]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.07-15.55.50:285][ 63]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2023.07.07-15.55.50:285][ 63]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2023.07.07-15.55.57:910][601]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2023.07.07-15.55.58:043][601]LogSavePackage: Moving '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Saved/FirstPersonExampleMap4DDECBFE45F7089F8F23858201EB6E79.tmp' to '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2023.07.07-15.55.58:159][601]LogSavePackage: Moving '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Saved/FirstPersonExampleMap_BuiltData648FFE564A0358C0F4E202BF8776DA33.tmp' to '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2023.07.07-15.55.58:171][601]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.07-15.55.58:171][601]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2023.07.07-15.55.58:171][601]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2023.07.07-15.57.25:718][ 88]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\RayanEreteo\Downloads\Female Standing Pose.fbx)
+[2023.07.07-15.57.25:728][ 88]LogFbx: Loading FBX Scene from C:\Users\RayanEreteo\Downloads\Female Standing Pose.fbx
+[2023.07.07-15.57.25:755][ 88]LogFbx: FBX Scene Loaded Succesfully
+[2023.07.07-15.57.28:368][ 88]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.07.07-15.57.28:381][ 88]LogFbx: SortedLinks :(0) Hips
+[2023.07.07-15.57.28:381][ 88]LogFbx: SortedLinks :(1) Spine
+[2023.07.07-15.57.28:381][ 88]LogFbx: SortedLinks :(2) Spine1
+[2023.07.07-15.57.28:381][ 88]LogFbx: SortedLinks :(3) Spine2
+[2023.07.07-15.57.28:381][ 88]LogFbx: SortedLinks :(4) Neck
+[2023.07.07-15.57.28:381][ 88]LogFbx: SortedLinks :(5) Head
+[2023.07.07-15.57.28:381][ 88]LogFbx: SortedLinks :(6) HeadTop_End
+[2023.07.07-15.57.28:381][ 88]LogFbx: SortedLinks :(7) LeftShoulder
+[2023.07.07-15.57.28:381][ 88]LogFbx: SortedLinks :(8) LeftArm
+[2023.07.07-15.57.28:381][ 88]LogFbx: SortedLinks :(9) LeftForeArm
+[2023.07.07-15.57.28:381][ 88]LogFbx: SortedLinks :(10) LeftHand
+[2023.07.07-15.57.28:381][ 88]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2023.07.07-15.57.28:381][ 88]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2023.07.07-15.57.28:381][ 88]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2023.07.07-15.57.28:381][ 88]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2023.07.07-15.57.28:381][ 88]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2023.07.07-15.57.28:381][ 88]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2023.07.07-15.57.28:381][ 88]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2023.07.07-15.57.28:381][ 88]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2023.07.07-15.57.28:381][ 88]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2023.07.07-15.57.28:382][ 88]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2023.07.07-15.57.28:382][ 88]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2023.07.07-15.57.28:382][ 88]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2023.07.07-15.57.28:382][ 88]LogFbx: SortedLinks :(23) LeftHandRing1
+[2023.07.07-15.57.28:382][ 88]LogFbx: SortedLinks :(24) LeftHandRing2
+[2023.07.07-15.57.28:382][ 88]LogFbx: SortedLinks :(25) LeftHandRing3
+[2023.07.07-15.57.28:382][ 88]LogFbx: SortedLinks :(26) LeftHandRing4
+[2023.07.07-15.57.28:382][ 88]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2023.07.07-15.57.28:382][ 88]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2023.07.07-15.57.28:382][ 88]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2023.07.07-15.57.28:382][ 88]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2023.07.07-15.57.28:382][ 88]LogFbx: SortedLinks :(31) RightShoulder
+[2023.07.07-15.57.28:382][ 88]LogFbx: SortedLinks :(32) RightArm
+[2023.07.07-15.57.28:382][ 88]LogFbx: SortedLinks :(33) RightForeArm
+[2023.07.07-15.57.28:382][ 88]LogFbx: SortedLinks :(34) RightHand
+[2023.07.07-15.57.28:382][ 88]LogFbx: SortedLinks :(35) RightHandThumb1
+[2023.07.07-15.57.28:382][ 88]LogFbx: SortedLinks :(36) RightHandThumb2
+[2023.07.07-15.57.28:382][ 88]LogFbx: SortedLinks :(37) RightHandThumb3
+[2023.07.07-15.57.28:382][ 88]LogFbx: SortedLinks :(38) RightHandThumb4
+[2023.07.07-15.57.28:382][ 88]LogFbx: SortedLinks :(39) RightHandIndex1
+[2023.07.07-15.57.28:382][ 88]LogFbx: SortedLinks :(40) RightHandIndex2
+[2023.07.07-15.57.28:382][ 88]LogFbx: SortedLinks :(41) RightHandIndex3
+[2023.07.07-15.57.28:382][ 88]LogFbx: SortedLinks :(42) RightHandIndex4
+[2023.07.07-15.57.28:382][ 88]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2023.07.07-15.57.28:382][ 88]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2023.07.07-15.57.28:382][ 88]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2023.07.07-15.57.28:382][ 88]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2023.07.07-15.57.28:382][ 88]LogFbx: SortedLinks :(47) RightHandRing1
+[2023.07.07-15.57.28:382][ 88]LogFbx: SortedLinks :(48) RightHandRing2
+[2023.07.07-15.57.28:382][ 88]LogFbx: SortedLinks :(49) RightHandRing3
+[2023.07.07-15.57.28:382][ 88]LogFbx: SortedLinks :(50) RightHandRing4
+[2023.07.07-15.57.28:382][ 88]LogFbx: SortedLinks :(51) RightHandPinky1
+[2023.07.07-15.57.28:382][ 88]LogFbx: SortedLinks :(52) RightHandPinky2
+[2023.07.07-15.57.28:382][ 88]LogFbx: SortedLinks :(53) RightHandPinky3
+[2023.07.07-15.57.28:382][ 88]LogFbx: SortedLinks :(54) RightHandPinky4
+[2023.07.07-15.57.28:382][ 88]LogFbx: SortedLinks :(55) LeftUpLeg
+[2023.07.07-15.57.28:382][ 88]LogFbx: SortedLinks :(56) LeftLeg
+[2023.07.07-15.57.28:382][ 88]LogFbx: SortedLinks :(57) LeftFoot
+[2023.07.07-15.57.28:382][ 88]LogFbx: SortedLinks :(58) LeftToeBase
+[2023.07.07-15.57.28:382][ 88]LogFbx: SortedLinks :(59) LeftToe_End
+[2023.07.07-15.57.28:382][ 88]LogFbx: SortedLinks :(60) RightUpLeg
+[2023.07.07-15.57.28:382][ 88]LogFbx: SortedLinks :(61) RightLeg
+[2023.07.07-15.57.28:382][ 88]LogFbx: SortedLinks :(62) RightFoot
+[2023.07.07-15.57.28:382][ 88]LogFbx: SortedLinks :(63) RightToeBase
+[2023.07.07-15.57.28:382][ 88]LogFbx: SortedLinks :(64) RightToe_End
+[2023.07.07-15.57.28:383][ 88]LogFbx: Parsing AnimStack mixamo.com
+[2023.07.07-15.57.28:436][ 88]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MesDossiers/3DModel/Enemy/Mannequin/Animations/Female_Standing_Pose.Female_Standing_Pose
+[2023.07.07-15.57.28:436][ 88]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MesDossiers/3DModel/Enemy/Mannequin/Animations/Female_Standing_Pose.Female_Standing_Pose
+[2023.07.07-15.57.32:406][544]Cmd: EDIT COPY
+[2023.07.07-15.57.32:626][561]Cmd: EDIT PASTE
+[2023.07.07-15.57.49:148][239]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2023.07.07-15.57.49:284][239]LogSavePackage: Moving '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Saved/FirstPersonExampleMap808A990E47D66E5ED3CC69AA6E28FED4.tmp' to '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2023.07.07-15.57.49:407][239]LogSavePackage: Moving '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Saved/FirstPersonExampleMap_BuiltDataA6F008B34E0D051AB986B1A70A9AC95B.tmp' to '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2023.07.07-15.57.49:420][239]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.07-15.57.49:420][239]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2023.07.07-15.57.49:420][239]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2023.07.07-15.57.58:406][741]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2023.07.07-15.57.58:550][741]LogSavePackage: Moving '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Saved/FirstPersonExampleMap03B553B042D0AC2278F002A7F9411E5E.tmp' to '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2023.07.07-15.57.58:677][741]LogSavePackage: Moving '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Saved/FirstPersonExampleMap_BuiltData87BAC4E6489FFA84DC1D27910CC02E62.tmp' to '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2023.07.07-15.57.58:692][741]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.07-15.57.58:692][741]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2023.07.07-15.57.58:693][741]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2023.07.07-15.58.00:616][950]Cmd: EDIT COPY
+[2023.07.07-15.58.00:787][963]Cmd: EDIT PASTE
+[2023.07.07-15.58.10:682][997]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2023.07.07-15.58.10:826][997]LogSavePackage: Moving '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Saved/FirstPersonExampleMapA2E062BC480F76A8C90C938155BA0FAA.tmp' to '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2023.07.07-15.58.10:944][997]LogSavePackage: Moving '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Saved/FirstPersonExampleMap_BuiltData8D98390146DF44D69DEA4988A62402C8.tmp' to '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2023.07.07-15.58.10:957][997]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.07-15.58.10:957][997]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2023.07.07-15.58.10:957][997]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2023.07.07-15.58.12:656][161]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2023.07.07-15.58.12:936][161]LogSavePackage: Moving '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Saved/Ch36_nonPBR6AAE115B404A2DE6CD31DC93E4B43369.tmp' to '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Content/MesDossiers/3DModel/Enemy/Mannequin/Ch36_nonPBR.uasset'
+[2023.07.07-15.58.13:343][161]LogSavePackage: Moving '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Saved/Ch36_BodyE359F8204EBA480B92581DAF9CF252D5.tmp' to '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Content/MesDossiers/3DModel/Enemy/Mannequin/Ch36_Body.uasset'
+[2023.07.07-15.58.14:415][161]LogSavePackage: Moving '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Saved/Ch36_1001_Diffuse84EA292C4326FC2E42323D8A8B6574AD.tmp' to '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Content/MesDossiers/3DModel/Enemy/Mannequin/Ch36_1001_Diffuse.uasset'
+[2023.07.07-15.58.16:403][161]LogSavePackage: Moving '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Saved/Ch36_1001_SpecularB0D1299346C0419F02CF4489A106ACED.tmp' to '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Content/MesDossiers/3DModel/Enemy/Mannequin/Ch36_1001_Specular.uasset'
+[2023.07.07-15.58.17:079][161]LogSavePackage: Moving '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Saved/Ch36_1001_Glossiness9D5770CE4DE403219E7DFCBEB97860AF.tmp' to '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Content/MesDossiers/3DModel/Enemy/Mannequin/Ch36_1001_Glossiness.uasset'
+[2023.07.07-15.58.19:353][161]LogSavePackage: Moving '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Saved/Ch36_1001_Normal8F730EE948D2F018DEB3EAAD41D49C40.tmp' to '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Content/MesDossiers/3DModel/Enemy/Mannequin/Ch36_1001_Normal.uasset'
+[2023.07.07-15.58.21:669][161]LogSavePackage: Moving '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Saved/Ch36_nonPBR_Skeleton825F1F034EF7D080B66F00B38E60F34D.tmp' to '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Content/MesDossiers/3DModel/Enemy/Mannequin/Ch36_nonPBR_Skeleton.uasset'
+[2023.07.07-15.58.21:889][161]LogSavePackage: Moving '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Saved/Ch36_nonPBR_PhysicsAsset62ACEDB24AD1AB83462FE88601589978.tmp' to '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Content/MesDossiers/3DModel/Enemy/Mannequin/Ch36_nonPBR_PhysicsAsset.uasset'
+[2023.07.07-15.58.22:192][161]LogSavePackage: Moving '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Saved/Male_Dance_Pose9590681040595C682B83AAA61EAEBAEC.tmp' to '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Content/MesDossiers/3DModel/Enemy/Mannequin/Animations/Male_Dance_Pose.uasset'
+[2023.07.07-15.58.22:445][161]LogSavePackage: Moving '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Saved/Female_Dance_Pose64A2D90C46BEC130B0E66AA78DEC1289.tmp' to '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Content/MesDossiers/3DModel/Enemy/Mannequin/Animations/Female_Dance_Pose.uasset'
+[2023.07.07-15.58.22:753][161]LogSavePackage: Moving '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Saved/Female_Standing_Pose279AAABF4B3B34C7273AB8BD56E315E5.tmp' to '../../../../../../Users/RayanEreteo/Documents/Unreal Projects/Horror/Content/MesDossiers/3DModel/Enemy/Mannequin/Animations/Female_Standing_Pose.uasset'
+[2023.07.07-15.58.23:033][161]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.07-15.58.23:033][161]LogContentValidation: Display: Validating Texture2D /Game/MesDossiers/3DModel/Enemy/Mannequin/Ch36_1001_Specular.Ch36_1001_Specular
+[2023.07.07-15.58.23:033][161]LogContentValidation: Display: Validating Texture2D /Game/MesDossiers/3DModel/Enemy/Mannequin/Ch36_1001_Diffuse.Ch36_1001_Diffuse
+[2023.07.07-15.58.23:033][161]LogContentValidation: Display: Validating Material /Game/MesDossiers/3DModel/Enemy/Mannequin/Ch36_Body.Ch36_Body
+[2023.07.07-15.58.23:033][161]LogContentValidation: Display: Validating PhysicsAsset /Game/MesDossiers/3DModel/Enemy/Mannequin/Ch36_nonPBR_PhysicsAsset.Ch36_nonPBR_PhysicsAsset
+[2023.07.07-15.58.23:033][161]LogContentValidation: Display: Validating Skeleton /Game/MesDossiers/3DModel/Enemy/Mannequin/Ch36_nonPBR_Skeleton.Ch36_nonPBR_Skeleton
+[2023.07.07-15.58.23:033][161]LogContentValidation: Display: Validating Texture2D /Game/MesDossiers/3DModel/Enemy/Mannequin/Ch36_1001_Normal.Ch36_1001_Normal
+[2023.07.07-15.58.23:033][161]LogContentValidation: Display: Validating Texture2D /Game/MesDossiers/3DModel/Enemy/Mannequin/Ch36_1001_Glossiness.Ch36_1001_Glossiness
+[2023.07.07-15.58.23:033][161]LogContentValidation: Display: Validating SkeletalMesh /Game/MesDossiers/3DModel/Enemy/Mannequin/Ch36_nonPBR.Ch36_nonPBR
+[2023.07.07-15.58.23:033][161]LogContentValidation: Display: Validating AnimSequence /Game/MesDossiers/3DModel/Enemy/Mannequin/Animations/Male_Dance_Pose.Male_Dance_Pose
+[2023.07.07-15.58.23:033][161]LogContentValidation: Display: Validating AnimSequence /Game/MesDossiers/3DModel/Enemy/Mannequin/Animations/Female_Dance_Pose.Female_Dance_Pose
+[2023.07.07-15.58.23:033][161]LogContentValidation: Display: Validating AnimSequence /Game/MesDossiers/3DModel/Enemy/Mannequin/Animations/Female_Standing_Pose.Female_Standing_Pose
